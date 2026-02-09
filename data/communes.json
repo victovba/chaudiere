@@ -1,0 +1,7086 @@
+[
+  {
+    "name": "Ahéville",
+    "slug": "aheville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88002",
+    "population": 67,
+    "lat": 48.2836,
+    "lng": 6.2007
+  },
+  {
+    "name": "Aingeville",
+    "slug": "aingeville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88140",
+    "postal_codes": [
+      "88140"
+    ],
+    "insee": "88003",
+    "population": 60,
+    "lat": 48.206,
+    "lng": 5.7659
+  },
+  {
+    "name": "Ainvelle",
+    "slug": "ainvelle",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88320",
+    "postal_codes": [
+      "88320"
+    ],
+    "insee": "88004",
+    "population": 140,
+    "lat": 47.9866,
+    "lng": 5.8268
+  },
+  {
+    "name": "Allarmont",
+    "slug": "allarmont",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88110",
+    "postal_codes": [
+      "88110"
+    ],
+    "insee": "88005",
+    "population": 214,
+    "lat": 48.4697,
+    "lng": 7.0176
+  },
+  {
+    "name": "Ambacourt",
+    "slug": "ambacourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88006",
+    "population": 300,
+    "lat": 48.3515,
+    "lng": 6.1394
+  },
+  {
+    "name": "Ameuvelle",
+    "slug": "ameuvelle",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88410",
+    "postal_codes": [
+      "88410"
+    ],
+    "insee": "88007",
+    "population": 46,
+    "lat": 47.951,
+    "lng": 5.9498
+  },
+  {
+    "name": "Anglemont",
+    "slug": "anglemont",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88700",
+    "postal_codes": [
+      "88700"
+    ],
+    "insee": "88008",
+    "population": 144,
+    "lat": 48.3773,
+    "lng": 6.6713
+  },
+  {
+    "name": "Anould",
+    "slug": "anould",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88650",
+    "postal_codes": [
+      "88650"
+    ],
+    "insee": "88009",
+    "population": 3234,
+    "lat": 48.1794,
+    "lng": 6.939
+  },
+  {
+    "name": "Aouze",
+    "slug": "aouze",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88170",
+    "postal_codes": [
+      "88170"
+    ],
+    "insee": "88010",
+    "population": 190,
+    "lat": 48.3836,
+    "lng": 5.8675
+  },
+  {
+    "name": "Arches",
+    "slug": "arches",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88380",
+    "postal_codes": [
+      "88380"
+    ],
+    "insee": "88011",
+    "population": 1617,
+    "lat": 48.1081,
+    "lng": 6.5077
+  },
+  {
+    "name": "Archettes",
+    "slug": "archettes",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88380",
+    "postal_codes": [
+      "88380"
+    ],
+    "insee": "88012",
+    "population": 1113,
+    "lat": 48.1324,
+    "lng": 6.5484
+  },
+  {
+    "name": "Aroffe",
+    "slug": "aroffe",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88170",
+    "postal_codes": [
+      "88170"
+    ],
+    "insee": "88013",
+    "population": 93,
+    "lat": 48.4112,
+    "lng": 5.8997
+  },
+  {
+    "name": "Arrentès-de-Corcieux",
+    "slug": "arrentes-de-corcieux",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88430",
+    "postal_codes": [
+      "88430"
+    ],
+    "insee": "88014",
+    "population": 169,
+    "lat": 48.1336,
+    "lng": 6.8716
+  },
+  {
+    "name": "Attigny",
+    "slug": "attigny",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88260",
+    "postal_codes": [
+      "88260"
+    ],
+    "insee": "88016",
+    "population": 200,
+    "lat": 48.0624,
+    "lng": 6.0249
+  },
+  {
+    "name": "Attignéville",
+    "slug": "attigneville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88300",
+    "postal_codes": [
+      "88300"
+    ],
+    "insee": "88015",
+    "population": 219,
+    "lat": 48.3969,
+    "lng": 5.8266
+  },
+  {
+    "name": "Aulnois",
+    "slug": "aulnois",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88300",
+    "postal_codes": [
+      "88300"
+    ],
+    "insee": "88017",
+    "population": 159,
+    "lat": 48.2617,
+    "lng": 5.7787
+  },
+  {
+    "name": "Autigny-la-Tour",
+    "slug": "autigny-la-tour",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88300",
+    "postal_codes": [
+      "88300"
+    ],
+    "insee": "88019",
+    "population": 144,
+    "lat": 48.4137,
+    "lng": 5.7869
+  },
+  {
+    "name": "Autreville",
+    "slug": "autreville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88300",
+    "postal_codes": [
+      "88300"
+    ],
+    "insee": "88020",
+    "population": 194,
+    "lat": 48.4867,
+    "lng": 5.8687
+  },
+  {
+    "name": "Autrey",
+    "slug": "autrey",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88700",
+    "postal_codes": [
+      "88700"
+    ],
+    "insee": "88021",
+    "population": 273,
+    "lat": 48.2918,
+    "lng": 6.725
+  },
+  {
+    "name": "Auzainvilliers",
+    "slug": "auzainvilliers",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88140",
+    "postal_codes": [
+      "88140"
+    ],
+    "insee": "88022",
+    "population": 191,
+    "lat": 48.2375,
+    "lng": 5.8559
+  },
+  {
+    "name": "Avillers",
+    "slug": "avillers",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88023",
+    "population": 88,
+    "lat": 48.3125,
+    "lng": 6.205
+  },
+  {
+    "name": "Avrainville",
+    "slug": "avrainville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88130",
+    "postal_codes": [
+      "88130"
+    ],
+    "insee": "88024",
+    "population": 111,
+    "lat": 48.3789,
+    "lng": 6.2194
+  },
+  {
+    "name": "Avranville",
+    "slug": "avranville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88630",
+    "postal_codes": [
+      "88630"
+    ],
+    "insee": "88025",
+    "population": 66,
+    "lat": 48.4165,
+    "lng": 5.5388
+  },
+  {
+    "name": "Aydoilles",
+    "slug": "aydoilles",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88026",
+    "population": 1018,
+    "lat": 48.2121,
+    "lng": 6.5738
+  },
+  {
+    "name": "Badménil-aux-Bois",
+    "slug": "badmenil-aux-bois",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88330",
+    "postal_codes": [
+      "88330"
+    ],
+    "insee": "88027",
+    "population": 135,
+    "lat": 48.3115,
+    "lng": 6.5285
+  },
+  {
+    "name": "Bainville-aux-Saules",
+    "slug": "bainville-aux-saules",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88270",
+    "postal_codes": [
+      "88270"
+    ],
+    "insee": "88030",
+    "population": 148,
+    "lat": 48.2082,
+    "lng": 6.1329
+  },
+  {
+    "name": "Balléville",
+    "slug": "balleville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88170",
+    "postal_codes": [
+      "88170"
+    ],
+    "insee": "88031",
+    "population": 97,
+    "lat": 48.3363,
+    "lng": 5.8467
+  },
+  {
+    "name": "Ban-de-Laveline",
+    "slug": "ban-de-laveline",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88520",
+    "postal_codes": [
+      "88520"
+    ],
+    "insee": "88032",
+    "population": 1148,
+    "lat": 48.2254,
+    "lng": 7.0801
+  },
+  {
+    "name": "Ban-de-Sapt",
+    "slug": "ban-de-sapt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88210",
+    "postal_codes": [
+      "88210"
+    ],
+    "insee": "88033",
+    "population": 360,
+    "lat": 48.34,
+    "lng": 7.0161
+  },
+  {
+    "name": "Ban-sur-Meurthe-Clefcy",
+    "slug": "ban-sur-meurthe-clefcy",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88230",
+    "postal_codes": [
+      "88230"
+    ],
+    "insee": "88106",
+    "population": 957,
+    "lat": 48.1285,
+    "lng": 6.9702
+  },
+  {
+    "name": "Barbey-Seroux",
+    "slug": "barbey-seroux",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88640",
+    "postal_codes": [
+      "88640"
+    ],
+    "insee": "88035",
+    "population": 143,
+    "lat": 48.1291,
+    "lng": 6.8466
+  },
+  {
+    "name": "Barville",
+    "slug": "barville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88300",
+    "postal_codes": [
+      "88300"
+    ],
+    "insee": "88036",
+    "population": 79,
+    "lat": 48.3785,
+    "lng": 5.7709
+  },
+  {
+    "name": "Basse-sur-le-Rupt",
+    "slug": "basse-sur-le-rupt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88120",
+    "postal_codes": [
+      "88120"
+    ],
+    "insee": "88037",
+    "population": 843,
+    "lat": 47.9855,
+    "lng": 6.7724
+  },
+  {
+    "name": "Battexey",
+    "slug": "battexey",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88130",
+    "postal_codes": [
+      "88130"
+    ],
+    "insee": "88038",
+    "population": 31,
+    "lat": 48.3892,
+    "lng": 6.1841
+  },
+  {
+    "name": "Baudricourt",
+    "slug": "baudricourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88039",
+    "population": 327,
+    "lat": 48.3087,
+    "lng": 6.0566
+  },
+  {
+    "name": "Bayecourt",
+    "slug": "bayecourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88150",
+    "postal_codes": [
+      "88150"
+    ],
+    "insee": "88040",
+    "population": 230,
+    "lat": 48.2714,
+    "lng": 6.4941
+  },
+  {
+    "name": "Bazegney",
+    "slug": "bazegney",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88270",
+    "postal_codes": [
+      "88270"
+    ],
+    "insee": "88041",
+    "population": 95,
+    "lat": 48.2654,
+    "lng": 6.2344
+  },
+  {
+    "name": "Bazien",
+    "slug": "bazien",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88700",
+    "postal_codes": [
+      "88700"
+    ],
+    "insee": "88042",
+    "population": 79,
+    "lat": 48.4151,
+    "lng": 6.6806
+  },
+  {
+    "name": "Bazoilles-et-Ménil",
+    "slug": "bazoilles-et-menil",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88043",
+    "population": 122,
+    "lat": 48.259,
+    "lng": 6.1064
+  },
+  {
+    "name": "Bazoilles-sur-Meuse",
+    "slug": "bazoilles-sur-meuse",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88300",
+    "postal_codes": [
+      "88300"
+    ],
+    "insee": "88044",
+    "population": 612,
+    "lat": 48.2989,
+    "lng": 5.649
+  },
+  {
+    "name": "Beaufremont",
+    "slug": "beaufremont",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88300",
+    "postal_codes": [
+      "88300"
+    ],
+    "insee": "88045",
+    "population": 83,
+    "lat": 48.2562,
+    "lng": 5.7436
+  },
+  {
+    "name": "Beauménil",
+    "slug": "beaumenil",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88046",
+    "population": 131,
+    "lat": 48.1689,
+    "lng": 6.7212
+  },
+  {
+    "name": "Begnécourt",
+    "slug": "begnecourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88270",
+    "postal_codes": [
+      "88270"
+    ],
+    "insee": "88047",
+    "population": 139,
+    "lat": 48.2095,
+    "lng": 6.1653
+  },
+  {
+    "name": "Bellefontaine",
+    "slug": "bellefontaine",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88370",
+    "postal_codes": [
+      "88370"
+    ],
+    "insee": "88048",
+    "population": 952,
+    "lat": 48.0103,
+    "lng": 6.4624
+  },
+  {
+    "name": "Belmont-lès-Darney",
+    "slug": "belmont-les-darney",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88260",
+    "postal_codes": [
+      "88260"
+    ],
+    "insee": "88049",
+    "population": 107,
+    "lat": 48.0855,
+    "lng": 6.0152
+  },
+  {
+    "name": "Belmont-sur-Buttant",
+    "slug": "belmont-sur-buttant",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88050",
+    "population": 293,
+    "lat": 48.2222,
+    "lng": 6.7689
+  },
+  {
+    "name": "Belmont-sur-Vair",
+    "slug": "belmont-sur-vair",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88800",
+    "postal_codes": [
+      "88800"
+    ],
+    "insee": "88051",
+    "population": 123,
+    "lat": 48.2579,
+    "lng": 5.9135
+  },
+  {
+    "name": "Belrupt",
+    "slug": "belrupt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88260",
+    "postal_codes": [
+      "88260"
+    ],
+    "insee": "88052",
+    "population": 88,
+    "lat": 48.0946,
+    "lng": 6.0853
+  },
+  {
+    "name": "Belval",
+    "slug": "belval",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88210",
+    "postal_codes": [
+      "88210"
+    ],
+    "insee": "88053",
+    "population": 148,
+    "lat": 48.4122,
+    "lng": 7.0697
+  },
+  {
+    "name": "Bertrimoutier",
+    "slug": "bertrimoutier",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88520",
+    "postal_codes": [
+      "88520"
+    ],
+    "insee": "88054",
+    "population": 315,
+    "lat": 48.2655,
+    "lng": 7.0606
+  },
+  {
+    "name": "Bettegney-Saint-Brice",
+    "slug": "bettegney-saint-brice",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88450",
+    "postal_codes": [
+      "88450"
+    ],
+    "insee": "88055",
+    "population": 163,
+    "lat": 48.3046,
+    "lng": 6.3122
+  },
+  {
+    "name": "Bettoncourt",
+    "slug": "bettoncourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88056",
+    "population": 88,
+    "lat": 48.3392,
+    "lng": 6.1635
+  },
+  {
+    "name": "Biffontaine",
+    "slug": "biffontaine",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88430",
+    "postal_codes": [
+      "88430"
+    ],
+    "insee": "88059",
+    "population": 390,
+    "lat": 48.2122,
+    "lng": 6.8183
+  },
+  {
+    "name": "Biécourt",
+    "slug": "biecourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88170",
+    "postal_codes": [
+      "88170"
+    ],
+    "insee": "88058",
+    "population": 89,
+    "lat": 48.3243,
+    "lng": 5.9535
+  },
+  {
+    "name": "Bleurville",
+    "slug": "bleurville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88410",
+    "postal_codes": [
+      "88410"
+    ],
+    "insee": "88061",
+    "population": 281,
+    "lat": 48.0677,
+    "lng": 5.9588
+  },
+  {
+    "name": "Blevaincourt",
+    "slug": "blevaincourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88320",
+    "postal_codes": [
+      "88320"
+    ],
+    "insee": "88062",
+    "population": 90,
+    "lat": 48.1217,
+    "lng": 5.7107
+  },
+  {
+    "name": "Blémerey",
+    "slug": "blemerey",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88060",
+    "population": 28,
+    "lat": 48.3586,
+    "lng": 6.0425
+  },
+  {
+    "name": "Bocquegney",
+    "slug": "bocquegney",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88270",
+    "postal_codes": [
+      "88270"
+    ],
+    "insee": "88063",
+    "population": 131,
+    "lat": 48.2234,
+    "lng": 6.3114
+  },
+  {
+    "name": "Bois-de-Champ",
+    "slug": "bois-de-champ",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88064",
+    "population": 105,
+    "lat": 48.2416,
+    "lng": 6.7942
+  },
+  {
+    "name": "Bonvillet",
+    "slug": "bonvillet",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88260",
+    "postal_codes": [
+      "88260"
+    ],
+    "insee": "88065",
+    "population": 272,
+    "lat": 48.1004,
+    "lng": 6.0644
+  },
+  {
+    "name": "Boulaincourt",
+    "slug": "boulaincourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88066",
+    "population": 64,
+    "lat": 48.3737,
+    "lng": 6.084
+  },
+  {
+    "name": "Bouxières-aux-Bois",
+    "slug": "bouxieres-aux-bois",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88270",
+    "postal_codes": [
+      "88270"
+    ],
+    "insee": "88069",
+    "population": 149,
+    "lat": 48.2562,
+    "lng": 6.3225
+  },
+  {
+    "name": "Bouxurulles",
+    "slug": "bouxurulles",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88130",
+    "postal_codes": [
+      "88130"
+    ],
+    "insee": "88070",
+    "population": 176,
+    "lat": 48.3322,
+    "lng": 6.2304
+  },
+  {
+    "name": "Bouzemont",
+    "slug": "bouzemont",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88270",
+    "postal_codes": [
+      "88270"
+    ],
+    "insee": "88071",
+    "population": 44,
+    "lat": 48.2498,
+    "lng": 6.2392
+  },
+  {
+    "name": "Brantigny",
+    "slug": "brantigny",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88130",
+    "postal_codes": [
+      "88130"
+    ],
+    "insee": "88073",
+    "population": 198,
+    "lat": 48.349,
+    "lng": 6.2769
+  },
+  {
+    "name": "Brechainville",
+    "slug": "brechainville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88350",
+    "postal_codes": [
+      "88350"
+    ],
+    "insee": "88074",
+    "population": 55,
+    "lat": 48.3618,
+    "lng": 5.5023
+  },
+  {
+    "name": "Brouvelieures",
+    "slug": "brouvelieures",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88076",
+    "population": 405,
+    "lat": 48.2412,
+    "lng": 6.7336
+  },
+  {
+    "name": "Bruyères",
+    "slug": "bruyeres",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88078",
+    "population": 2923,
+    "lat": 48.2155,
+    "lng": 6.7139
+  },
+  {
+    "name": "Brû",
+    "slug": "bru",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88700",
+    "postal_codes": [
+      "88700"
+    ],
+    "insee": "88077",
+    "population": 567,
+    "lat": 48.3554,
+    "lng": 6.6854
+  },
+  {
+    "name": "Bulgnéville",
+    "slug": "bulgneville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88140",
+    "postal_codes": [
+      "88140"
+    ],
+    "insee": "88079",
+    "population": 1516,
+    "lat": 48.212,
+    "lng": 5.8412
+  },
+  {
+    "name": "Bult",
+    "slug": "bult",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88700",
+    "postal_codes": [
+      "88700"
+    ],
+    "insee": "88080",
+    "population": 301,
+    "lat": 48.2982,
+    "lng": 6.5938
+  },
+  {
+    "name": "Bussang",
+    "slug": "bussang",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88540",
+    "postal_codes": [
+      "88540"
+    ],
+    "insee": "88081",
+    "population": 1261,
+    "lat": 47.8922,
+    "lng": 6.875
+  },
+  {
+    "name": "Celles-sur-Plaine",
+    "slug": "celles-sur-plaine",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88110",
+    "postal_codes": [
+      "88110"
+    ],
+    "insee": "88082",
+    "population": 737,
+    "lat": 48.4513,
+    "lng": 6.9656
+  },
+  {
+    "name": "Certilleux",
+    "slug": "certilleux",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88300",
+    "postal_codes": [
+      "88300"
+    ],
+    "insee": "88083",
+    "population": 216,
+    "lat": 48.3198,
+    "lng": 5.733
+  },
+  {
+    "name": "Chamagne",
+    "slug": "chamagne",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88130",
+    "postal_codes": [
+      "88130"
+    ],
+    "insee": "88084",
+    "population": 446,
+    "lat": 48.4117,
+    "lng": 6.3074
+  },
+  {
+    "name": "Champ-le-Duc",
+    "slug": "champ-le-duc",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88086",
+    "population": 475,
+    "lat": 48.1924,
+    "lng": 6.7274
+  },
+  {
+    "name": "Champdray",
+    "slug": "champdray",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88640",
+    "postal_codes": [
+      "88640"
+    ],
+    "insee": "88085",
+    "population": 192,
+    "lat": 48.1257,
+    "lng": 6.7577
+  },
+  {
+    "name": "Chantraine",
+    "slug": "chantraine",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88000",
+    "postal_codes": [
+      "88000"
+    ],
+    "insee": "88087",
+    "population": 3198,
+    "lat": 48.167,
+    "lng": 6.4244
+  },
+  {
+    "name": "Charmes",
+    "slug": "charmes",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88130",
+    "postal_codes": [
+      "88130"
+    ],
+    "insee": "88090",
+    "population": 4484,
+    "lat": 48.383,
+    "lng": 6.3225
+  },
+  {
+    "name": "Charmois-devant-Bruyères",
+    "slug": "charmois-devant-bruyeres",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88460",
+    "postal_codes": [
+      "88460"
+    ],
+    "insee": "88091",
+    "population": 373,
+    "lat": 48.1712,
+    "lng": 6.5898
+  },
+  {
+    "name": "Charmois-l'Orgueilleux",
+    "slug": "charmois-l-orgueilleux",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88270",
+    "postal_codes": [
+      "88270"
+    ],
+    "insee": "88092",
+    "population": 586,
+    "lat": 48.0904,
+    "lng": 6.2618
+  },
+  {
+    "name": "Chauffecourt",
+    "slug": "chauffecourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88097",
+    "population": 41,
+    "lat": 48.3335,
+    "lng": 6.1557
+  },
+  {
+    "name": "Chaumousey",
+    "slug": "chaumousey",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88390",
+    "postal_codes": [
+      "88390"
+    ],
+    "insee": "88098",
+    "population": 924,
+    "lat": 48.172,
+    "lng": 6.3251
+  },
+  {
+    "name": "Chavelot",
+    "slug": "chavelot",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88150",
+    "postal_codes": [
+      "88150"
+    ],
+    "insee": "88099",
+    "population": 1376,
+    "lat": 48.229,
+    "lng": 6.4281
+  },
+  {
+    "name": "Chef-Haut",
+    "slug": "chef-haut",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88100",
+    "population": 49,
+    "lat": 48.354,
+    "lng": 6.0093
+  },
+  {
+    "name": "Cheniménil",
+    "slug": "chenimenil",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88460",
+    "postal_codes": [
+      "88460"
+    ],
+    "insee": "88101",
+    "population": 1210,
+    "lat": 48.1367,
+    "lng": 6.5959
+  },
+  {
+    "name": "Chermisey",
+    "slug": "chermisey",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88630",
+    "postal_codes": [
+      "88630"
+    ],
+    "insee": "88102",
+    "population": 83,
+    "lat": 48.4125,
+    "lng": 5.5717
+  },
+  {
+    "name": "Châtas",
+    "slug": "chatas",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88210",
+    "postal_codes": [
+      "88210"
+    ],
+    "insee": "88093",
+    "population": 34,
+    "lat": 48.3667,
+    "lng": 7.0383
+  },
+  {
+    "name": "Châtel-sur-Moselle",
+    "slug": "chatel-sur-moselle",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88330",
+    "postal_codes": [
+      "88330"
+    ],
+    "insee": "88094",
+    "population": 1723,
+    "lat": 48.3164,
+    "lng": 6.399
+  },
+  {
+    "name": "Châtenois",
+    "slug": "chatenois",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88170",
+    "postal_codes": [
+      "88170"
+    ],
+    "insee": "88095",
+    "population": 1723,
+    "lat": 48.3119,
+    "lng": 5.8251
+  },
+  {
+    "name": "Châtillon-sur-Saône",
+    "slug": "chatillon-sur-saone",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88410",
+    "postal_codes": [
+      "88410"
+    ],
+    "insee": "88096",
+    "population": 105,
+    "lat": 47.9462,
+    "lng": 5.8785
+  },
+  {
+    "name": "Circourt",
+    "slug": "circourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88270",
+    "postal_codes": [
+      "88270"
+    ],
+    "insee": "88103",
+    "population": 79,
+    "lat": 48.2491,
+    "lng": 6.2833
+  },
+  {
+    "name": "Circourt-sur-Mouzon",
+    "slug": "circourt-sur-mouzon",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88300",
+    "postal_codes": [
+      "88300"
+    ],
+    "insee": "88104",
+    "population": 186,
+    "lat": 48.3033,
+    "lng": 5.6997
+  },
+  {
+    "name": "Claudon",
+    "slug": "claudon",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88410",
+    "postal_codes": [
+      "88410"
+    ],
+    "insee": "88105",
+    "population": 218,
+    "lat": 48.0332,
+    "lng": 6.0454
+  },
+  {
+    "name": "Cleurie",
+    "slug": "cleurie",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88120",
+    "postal_codes": [
+      "88120"
+    ],
+    "insee": "88109",
+    "population": 652,
+    "lat": 48.0552,
+    "lng": 6.674
+  },
+  {
+    "name": "Clérey-la-Côte",
+    "slug": "clerey-la-cote",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88630",
+    "postal_codes": [
+      "88630"
+    ],
+    "insee": "88107",
+    "population": 25,
+    "lat": 48.4852,
+    "lng": 5.7624
+  },
+  {
+    "name": "Clézentaine",
+    "slug": "clezentaine",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88700",
+    "postal_codes": [
+      "88700"
+    ],
+    "insee": "88110",
+    "population": 217,
+    "lat": 48.4063,
+    "lng": 6.5242
+  },
+  {
+    "name": "Coinches",
+    "slug": "coinches",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88100",
+    "postal_codes": [
+      "88100"
+    ],
+    "insee": "88111",
+    "population": 346,
+    "lat": 48.2423,
+    "lng": 7.023
+  },
+  {
+    "name": "Combrimont",
+    "slug": "combrimont",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88490",
+    "postal_codes": [
+      "88490"
+    ],
+    "insee": "88113",
+    "population": 136,
+    "lat": 48.2742,
+    "lng": 7.0752
+  },
+  {
+    "name": "Contrexéville",
+    "slug": "contrexeville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88140",
+    "postal_codes": [
+      "88140"
+    ],
+    "insee": "88114",
+    "population": 2923,
+    "lat": 48.186,
+    "lng": 5.8906
+  },
+  {
+    "name": "Corcieux",
+    "slug": "corcieux",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88430",
+    "postal_codes": [
+      "88430"
+    ],
+    "insee": "88115",
+    "population": 1509,
+    "lat": 48.165,
+    "lng": 6.879
+  },
+  {
+    "name": "Cornimont",
+    "slug": "cornimont",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88310",
+    "postal_codes": [
+      "88310"
+    ],
+    "insee": "88116",
+    "population": 3027,
+    "lat": 47.9613,
+    "lng": 6.8768
+  },
+  {
+    "name": "Courcelles-sous-Châtenois",
+    "slug": "courcelles-sous-chatenois",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88170",
+    "postal_codes": [
+      "88170"
+    ],
+    "insee": "88117",
+    "population": 74,
+    "lat": 48.3269,
+    "lng": 5.8147
+  },
+  {
+    "name": "Coussey",
+    "slug": "coussey",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88630",
+    "postal_codes": [
+      "88630"
+    ],
+    "insee": "88118",
+    "population": 716,
+    "lat": 48.4136,
+    "lng": 5.6671
+  },
+  {
+    "name": "Crainvilliers",
+    "slug": "crainvilliers",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88140",
+    "postal_codes": [
+      "88140"
+    ],
+    "insee": "88119",
+    "population": 182,
+    "lat": 48.1497,
+    "lng": 5.8382
+  },
+  {
+    "name": "Damas-aux-Bois",
+    "slug": "damas-aux-bois",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88330",
+    "postal_codes": [
+      "88330"
+    ],
+    "insee": "88121",
+    "population": 273,
+    "lat": 48.3843,
+    "lng": 6.4031
+  },
+  {
+    "name": "Damas-et-Bettegney",
+    "slug": "damas-et-bettegney",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88270",
+    "postal_codes": [
+      "88270"
+    ],
+    "insee": "88122",
+    "population": 390,
+    "lat": 48.212,
+    "lng": 6.2642
+  },
+  {
+    "name": "Damblain",
+    "slug": "damblain",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88320",
+    "postal_codes": [
+      "88320"
+    ],
+    "insee": "88123",
+    "population": 260,
+    "lat": 48.0892,
+    "lng": 5.6685
+  },
+  {
+    "name": "Darney",
+    "slug": "darney",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88260",
+    "postal_codes": [
+      "88260"
+    ],
+    "insee": "88124",
+    "population": 1091,
+    "lat": 48.0799,
+    "lng": 6.0556
+  },
+  {
+    "name": "Darney-aux-Chênes",
+    "slug": "darney-aux-chenes",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88170",
+    "postal_codes": [
+      "88170"
+    ],
+    "insee": "88125",
+    "population": 59,
+    "lat": 48.2832,
+    "lng": 5.8101
+  },
+  {
+    "name": "Darnieulles",
+    "slug": "darnieulles",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88390",
+    "postal_codes": [
+      "88390"
+    ],
+    "insee": "88126",
+    "population": 1364,
+    "lat": 48.198,
+    "lng": 6.3356
+  },
+  {
+    "name": "Deinvillers",
+    "slug": "deinvillers",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88700",
+    "postal_codes": [
+      "88700"
+    ],
+    "insee": "88127",
+    "population": 57,
+    "lat": 48.4137,
+    "lng": 6.5628
+  },
+  {
+    "name": "Denipaire",
+    "slug": "denipaire",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88210",
+    "postal_codes": [
+      "88210"
+    ],
+    "insee": "88128",
+    "population": 243,
+    "lat": 48.3402,
+    "lng": 6.9594
+  },
+  {
+    "name": "Derbamont",
+    "slug": "derbamont",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88270",
+    "postal_codes": [
+      "88270"
+    ],
+    "insee": "88129",
+    "population": 100,
+    "lat": 48.2655,
+    "lng": 6.2735
+  },
+  {
+    "name": "Destord",
+    "slug": "destord",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88130",
+    "population": 234,
+    "lat": 48.2735,
+    "lng": 6.6209
+  },
+  {
+    "name": "Deycimont",
+    "slug": "deycimont",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88131",
+    "population": 292,
+    "lat": 48.1745,
+    "lng": 6.6422
+  },
+  {
+    "name": "Deyvillers",
+    "slug": "deyvillers",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88000",
+    "postal_codes": [
+      "88000"
+    ],
+    "insee": "88132",
+    "population": 1379,
+    "lat": 48.1975,
+    "lng": 6.5283
+  },
+  {
+    "name": "Dignonville",
+    "slug": "dignonville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88000",
+    "postal_codes": [
+      "88000"
+    ],
+    "insee": "88133",
+    "population": 208,
+    "lat": 48.2414,
+    "lng": 6.5002
+  },
+  {
+    "name": "Dinozé",
+    "slug": "dinoze",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88000",
+    "postal_codes": [
+      "88000"
+    ],
+    "insee": "88134",
+    "population": 648,
+    "lat": 48.1383,
+    "lng": 6.4852
+  },
+  {
+    "name": "Docelles",
+    "slug": "docelles",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88460",
+    "postal_codes": [
+      "88460"
+    ],
+    "insee": "88135",
+    "population": 856,
+    "lat": 48.1388,
+    "lng": 6.6254
+  },
+  {
+    "name": "Dogneville",
+    "slug": "dogneville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88000",
+    "postal_codes": [
+      "88000"
+    ],
+    "insee": "88136",
+    "population": 1521,
+    "lat": 48.2198,
+    "lng": 6.4667
+  },
+  {
+    "name": "Dolaincourt",
+    "slug": "dolaincourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88170",
+    "postal_codes": [
+      "88170"
+    ],
+    "insee": "88137",
+    "population": 85,
+    "lat": 48.3405,
+    "lng": 5.8085
+  },
+  {
+    "name": "Dombasle-devant-Darney",
+    "slug": "dombasle-devant-darney",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88260",
+    "postal_codes": [
+      "88260"
+    ],
+    "insee": "88138",
+    "population": 78,
+    "lat": 48.1279,
+    "lng": 6.0752
+  },
+  {
+    "name": "Dombasle-en-Xaintois",
+    "slug": "dombasle-en-xaintois",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88139",
+    "population": 123,
+    "lat": 48.3036,
+    "lng": 5.9952
+  },
+  {
+    "name": "Dombrot-le-Sec",
+    "slug": "dombrot-le-sec",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88140",
+    "postal_codes": [
+      "88140"
+    ],
+    "insee": "88140",
+    "population": 355,
+    "lat": 48.1452,
+    "lng": 5.8978
+  },
+  {
+    "name": "Dombrot-sur-Vair",
+    "slug": "dombrot-sur-vair",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88170",
+    "postal_codes": [
+      "88170"
+    ],
+    "insee": "88141",
+    "population": 239,
+    "lat": 48.2659,
+    "lng": 5.9007
+  },
+  {
+    "name": "Domfaing",
+    "slug": "domfaing",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88145",
+    "population": 210,
+    "lat": 48.244,
+    "lng": 6.7534
+  },
+  {
+    "name": "Domjulien",
+    "slug": "domjulien",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88800",
+    "postal_codes": [
+      "88800"
+    ],
+    "insee": "88146",
+    "population": 178,
+    "lat": 48.2569,
+    "lng": 5.9993
+  },
+  {
+    "name": "Dommartin-aux-Bois",
+    "slug": "dommartin-aux-bois",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88390",
+    "postal_codes": [
+      "88390"
+    ],
+    "insee": "88147",
+    "population": 411,
+    "lat": 48.1485,
+    "lng": 6.2917
+  },
+  {
+    "name": "Dommartin-lès-Remiremont",
+    "slug": "dommartin-les-remiremont",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88200",
+    "postal_codes": [
+      "88200"
+    ],
+    "insee": "88148",
+    "population": 1921,
+    "lat": 47.9888,
+    "lng": 6.6521
+  },
+  {
+    "name": "Dommartin-lès-Vallois",
+    "slug": "dommartin-les-vallois",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88260",
+    "postal_codes": [
+      "88260"
+    ],
+    "insee": "88149",
+    "population": 52,
+    "lat": 48.1558,
+    "lng": 6.0853
+  },
+  {
+    "name": "Dommartin-sur-Vraine",
+    "slug": "dommartin-sur-vraine",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88170",
+    "postal_codes": [
+      "88170"
+    ],
+    "insee": "88150",
+    "population": 278,
+    "lat": 48.343,
+    "lng": 5.9118
+  },
+  {
+    "name": "Dompaire",
+    "slug": "dompaire",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88270",
+    "postal_codes": [
+      "88270"
+    ],
+    "insee": "88151",
+    "population": 1077,
+    "lat": 48.226,
+    "lng": 6.2093
+  },
+  {
+    "name": "Dompierre",
+    "slug": "dompierre",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88152",
+    "population": 238,
+    "lat": 48.2485,
+    "lng": 6.5663
+  },
+  {
+    "name": "Domptail",
+    "slug": "domptail",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88700",
+    "postal_codes": [
+      "88700"
+    ],
+    "insee": "88153",
+    "population": 334,
+    "lat": 48.4452,
+    "lng": 6.6174
+  },
+  {
+    "name": "Domrémy-la-Pucelle",
+    "slug": "domremy-la-pucelle",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88630",
+    "postal_codes": [
+      "88630"
+    ],
+    "insee": "88154",
+    "population": 102,
+    "lat": 48.4409,
+    "lng": 5.6566
+  },
+  {
+    "name": "Domvallier",
+    "slug": "domvallier",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88155",
+    "population": 93,
+    "lat": 48.303,
+    "lng": 6.0803
+  },
+  {
+    "name": "Domèvre-sous-Montfort",
+    "slug": "domevre-sous-montfort",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88144",
+    "population": 61,
+    "lat": 48.2581,
+    "lng": 6.0721
+  },
+  {
+    "name": "Domèvre-sur-Avière",
+    "slug": "domevre-sur-aviere",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88390",
+    "postal_codes": [
+      "88390"
+    ],
+    "insee": "88142",
+    "population": 439,
+    "lat": 48.2242,
+    "lng": 6.39
+  },
+  {
+    "name": "Domèvre-sur-Durbion",
+    "slug": "domevre-sur-durbion",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88330",
+    "postal_codes": [
+      "88330"
+    ],
+    "insee": "88143",
+    "population": 267,
+    "lat": 48.2871,
+    "lng": 6.4886
+  },
+  {
+    "name": "Doncières",
+    "slug": "doncieres",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88700",
+    "postal_codes": [
+      "88700"
+    ],
+    "insee": "88156",
+    "population": 157,
+    "lat": 48.3901,
+    "lng": 6.6344
+  },
+  {
+    "name": "Dounoux",
+    "slug": "dounoux",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88220",
+    "postal_codes": [
+      "88220"
+    ],
+    "insee": "88157",
+    "population": 880,
+    "lat": 48.1068,
+    "lng": 6.4423
+  },
+  {
+    "name": "Entre-deux-Eaux",
+    "slug": "entre-deux-eaux",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88650",
+    "postal_codes": [
+      "88650"
+    ],
+    "insee": "88159",
+    "population": 510,
+    "lat": 48.2392,
+    "lng": 7.0005
+  },
+  {
+    "name": "Escles",
+    "slug": "escles",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88260",
+    "postal_codes": [
+      "88260"
+    ],
+    "insee": "88161",
+    "population": 382,
+    "lat": 48.1189,
+    "lng": 6.1649
+  },
+  {
+    "name": "Esley",
+    "slug": "esley",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88260",
+    "postal_codes": [
+      "88260"
+    ],
+    "insee": "88162",
+    "population": 166,
+    "lat": 48.1753,
+    "lng": 6.0604
+  },
+  {
+    "name": "Essegney",
+    "slug": "essegney",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88130",
+    "postal_codes": [
+      "88130"
+    ],
+    "insee": "88163",
+    "population": 747,
+    "lat": 48.3793,
+    "lng": 6.3449
+  },
+  {
+    "name": "Estrennes",
+    "slug": "estrennes",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88164",
+    "population": 107,
+    "lat": 48.2603,
+    "lng": 6.0565
+  },
+  {
+    "name": "Faucompierre",
+    "slug": "faucompierre",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88460",
+    "postal_codes": [
+      "88460"
+    ],
+    "insee": "88167",
+    "population": 227,
+    "lat": 48.1398,
+    "lng": 6.6639
+  },
+  {
+    "name": "Fauconcourt",
+    "slug": "fauconcourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88700",
+    "postal_codes": [
+      "88700"
+    ],
+    "insee": "88168",
+    "population": 126,
+    "lat": 48.372,
+    "lng": 6.5388
+  },
+  {
+    "name": "Fays",
+    "slug": "fays",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88169",
+    "population": 222,
+    "lat": 48.1971,
+    "lng": 6.669
+  },
+  {
+    "name": "Ferdrupt",
+    "slug": "ferdrupt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88360",
+    "postal_codes": [
+      "88360"
+    ],
+    "insee": "88170",
+    "population": 738,
+    "lat": 47.9099,
+    "lng": 6.7224
+  },
+  {
+    "name": "Fignévelle",
+    "slug": "fignevelle",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88410",
+    "postal_codes": [
+      "88410"
+    ],
+    "insee": "88171",
+    "population": 50,
+    "lat": 47.9846,
+    "lng": 5.9105
+  },
+  {
+    "name": "Fiménil",
+    "slug": "fimenil",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88172",
+    "population": 237,
+    "lat": 48.172,
+    "lng": 6.7111
+  },
+  {
+    "name": "Florémont",
+    "slug": "floremont",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88130",
+    "postal_codes": [
+      "88130"
+    ],
+    "insee": "88173",
+    "population": 467,
+    "lat": 48.3712,
+    "lng": 6.2534
+  },
+  {
+    "name": "Fomerey",
+    "slug": "fomerey",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88390",
+    "postal_codes": [
+      "88390"
+    ],
+    "insee": "88174",
+    "population": 138,
+    "lat": 48.218,
+    "lng": 6.343
+  },
+  {
+    "name": "Fontenay",
+    "slug": "fontenay",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88175",
+    "population": 469,
+    "lat": 48.2145,
+    "lng": 6.588
+  },
+  {
+    "name": "Fontenoy-le-Château",
+    "slug": "fontenoy-le-chateau",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88240",
+    "postal_codes": [
+      "88240"
+    ],
+    "insee": "88176",
+    "population": 500,
+    "lat": 47.9779,
+    "lng": 6.2062
+  },
+  {
+    "name": "Fouchécourt",
+    "slug": "fouchecourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88320",
+    "postal_codes": [
+      "88320"
+    ],
+    "insee": "88179",
+    "population": 40,
+    "lat": 48.0046,
+    "lng": 5.8647
+  },
+  {
+    "name": "Frain",
+    "slug": "frain",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88320",
+    "postal_codes": [
+      "88320"
+    ],
+    "insee": "88180",
+    "population": 125,
+    "lat": 48.0835,
+    "lng": 5.8801
+  },
+  {
+    "name": "Fraize",
+    "slug": "fraize",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88230",
+    "postal_codes": [
+      "88230"
+    ],
+    "insee": "88181",
+    "population": 2843,
+    "lat": 48.1876,
+    "lng": 7.0268
+  },
+  {
+    "name": "Frapelle",
+    "slug": "frapelle",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88490",
+    "postal_codes": [
+      "88490"
+    ],
+    "insee": "88182",
+    "population": 201,
+    "lat": 48.2945,
+    "lng": 7.0531
+  },
+  {
+    "name": "Frebécourt",
+    "slug": "frebecourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88630",
+    "postal_codes": [
+      "88630"
+    ],
+    "insee": "88183",
+    "population": 341,
+    "lat": 48.3821,
+    "lng": 5.6756
+  },
+  {
+    "name": "Fremifontaine",
+    "slug": "fremifontaine",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88184",
+    "population": 428,
+    "lat": 48.2625,
+    "lng": 6.7007
+  },
+  {
+    "name": "Frenelle-la-Grande",
+    "slug": "frenelle-la-grande",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88185",
+    "population": 97,
+    "lat": 48.3531,
+    "lng": 6.093
+  },
+  {
+    "name": "Frenelle-la-Petite",
+    "slug": "frenelle-la-petite",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88186",
+    "population": 49,
+    "lat": 48.3496,
+    "lng": 6.0631
+  },
+  {
+    "name": "Fresse-sur-Moselle",
+    "slug": "fresse-sur-moselle",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88160",
+    "postal_codes": [
+      "88160"
+    ],
+    "insee": "88188",
+    "population": 1662,
+    "lat": 47.8653,
+    "lng": 6.8086
+  },
+  {
+    "name": "Frizon",
+    "slug": "frizon",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88440",
+    "postal_codes": [
+      "88440"
+    ],
+    "insee": "88190",
+    "population": 485,
+    "lat": 48.2856,
+    "lng": 6.3517
+  },
+  {
+    "name": "Frénois",
+    "slug": "frenois",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88270",
+    "postal_codes": [
+      "88270"
+    ],
+    "insee": "88187",
+    "population": 48,
+    "lat": 48.1853,
+    "lng": 6.1229
+  },
+  {
+    "name": "Fréville",
+    "slug": "freville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88350",
+    "postal_codes": [
+      "88350"
+    ],
+    "insee": "88189",
+    "population": 133,
+    "lat": 48.3247,
+    "lng": 5.6235
+  },
+  {
+    "name": "Gelvécourt-et-Adompt",
+    "slug": "gelvecourt-et-adompt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88270",
+    "postal_codes": [
+      "88270"
+    ],
+    "insee": "88192",
+    "population": 108,
+    "lat": 48.2001,
+    "lng": 6.1794
+  },
+  {
+    "name": "Gemaingoutte",
+    "slug": "gemaingoutte",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88520",
+    "postal_codes": [
+      "88520"
+    ],
+    "insee": "88193",
+    "population": 150,
+    "lat": 48.2448,
+    "lng": 7.1046
+  },
+  {
+    "name": "Gemmelaincourt",
+    "slug": "gemmelaincourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88170",
+    "postal_codes": [
+      "88170"
+    ],
+    "insee": "88194",
+    "population": 120,
+    "lat": 48.2756,
+    "lng": 5.9683
+  },
+  {
+    "name": "Gendreville",
+    "slug": "gendreville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88140",
+    "postal_codes": [
+      "88140"
+    ],
+    "insee": "88195",
+    "population": 103,
+    "lat": 48.2349,
+    "lng": 5.716
+  },
+  {
+    "name": "Gerbamont",
+    "slug": "gerbamont",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88120",
+    "postal_codes": [
+      "88120"
+    ],
+    "insee": "88197",
+    "population": 354,
+    "lat": 48.0039,
+    "lng": 6.7693
+  },
+  {
+    "name": "Gerbépal",
+    "slug": "gerbepal",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88430",
+    "postal_codes": [
+      "88430"
+    ],
+    "insee": "88198",
+    "population": 544,
+    "lat": 48.1299,
+    "lng": 6.9255
+  },
+  {
+    "name": "Gigney",
+    "slug": "gigney",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88390",
+    "postal_codes": [
+      "88390"
+    ],
+    "insee": "88200",
+    "population": 58,
+    "lat": 48.2301,
+    "lng": 6.3371
+  },
+  {
+    "name": "Gignéville",
+    "slug": "gigneville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88320",
+    "postal_codes": [
+      "88320"
+    ],
+    "insee": "88199",
+    "population": 77,
+    "lat": 48.1127,
+    "lng": 5.9189
+  },
+  {
+    "name": "Girancourt",
+    "slug": "girancourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88390",
+    "postal_codes": [
+      "88390"
+    ],
+    "insee": "88201",
+    "population": 877,
+    "lat": 48.1456,
+    "lng": 6.3242
+  },
+  {
+    "name": "Gircourt-lès-Viéville",
+    "slug": "gircourt-les-vieville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88202",
+    "population": 183,
+    "lat": 48.3415,
+    "lng": 6.1956
+  },
+  {
+    "name": "Girecourt-sur-Durbion",
+    "slug": "girecourt-sur-durbion",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88203",
+    "population": 350,
+    "lat": 48.2484,
+    "lng": 6.5978
+  },
+  {
+    "name": "Girmont-Val-d'Ajol",
+    "slug": "girmont-val-d-ajol",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88340",
+    "postal_codes": [
+      "88340"
+    ],
+    "insee": "88205",
+    "population": 264,
+    "lat": 47.9501,
+    "lng": 6.5656
+  },
+  {
+    "name": "Gironcourt-sur-Vraine",
+    "slug": "gironcourt-sur-vraine",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88170",
+    "postal_codes": [
+      "88170"
+    ],
+    "insee": "88206",
+    "population": 849,
+    "lat": 48.2998,
+    "lng": 5.9316
+  },
+  {
+    "name": "Godoncourt",
+    "slug": "godoncourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88410",
+    "postal_codes": [
+      "88410"
+    ],
+    "insee": "88208",
+    "population": 117,
+    "lat": 47.9968,
+    "lng": 5.9306
+  },
+  {
+    "name": "Golbey",
+    "slug": "golbey",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88190",
+    "postal_codes": [
+      "88190"
+    ],
+    "insee": "88209",
+    "population": 8832,
+    "lat": 48.1987,
+    "lng": 6.4258
+  },
+  {
+    "name": "Gorhey",
+    "slug": "gorhey",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88270",
+    "postal_codes": [
+      "88270"
+    ],
+    "insee": "88210",
+    "population": 174,
+    "lat": 48.1899,
+    "lng": 6.2941
+  },
+  {
+    "name": "Grand",
+    "slug": "grand",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88350",
+    "postal_codes": [
+      "88350"
+    ],
+    "insee": "88212",
+    "population": 372,
+    "lat": 48.3946,
+    "lng": 5.4732
+  },
+  {
+    "name": "Grandrupt",
+    "slug": "grandrupt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88210",
+    "postal_codes": [
+      "88210"
+    ],
+    "insee": "88215",
+    "population": 74,
+    "lat": 48.3666,
+    "lng": 7.0608
+  },
+  {
+    "name": "Grandrupt-de-Bains",
+    "slug": "grandrupt-de-bains",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88240",
+    "postal_codes": [
+      "88240"
+    ],
+    "insee": "88214",
+    "population": 72,
+    "lat": 48.0644,
+    "lng": 6.179
+  },
+  {
+    "name": "Grandvillers",
+    "slug": "grandvillers",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88216",
+    "population": 716,
+    "lat": 48.2359,
+    "lng": 6.6794
+  },
+  {
+    "name": "Granges-Aumontzey",
+    "slug": "granges-aumontzey",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88640",
+    "postal_codes": [
+      "88640"
+    ],
+    "insee": "88218",
+    "population": 2529,
+    "lat": 48.1342,
+    "lng": 6.8151
+  },
+  {
+    "name": "Greux",
+    "slug": "greux",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88630",
+    "postal_codes": [
+      "88630"
+    ],
+    "insee": "88219",
+    "population": 130,
+    "lat": 48.4581,
+    "lng": 5.6665
+  },
+  {
+    "name": "Grignoncourt",
+    "slug": "grignoncourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88410",
+    "postal_codes": [
+      "88410"
+    ],
+    "insee": "88220",
+    "population": 46,
+    "lat": 47.9602,
+    "lng": 5.904
+  },
+  {
+    "name": "Gruey-lès-Surance",
+    "slug": "gruey-les-surance",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88240",
+    "postal_codes": [
+      "88240"
+    ],
+    "insee": "88221",
+    "population": 204,
+    "lat": 48.0346,
+    "lng": 6.1777
+  },
+  {
+    "name": "Gugney-aux-Aulx",
+    "slug": "gugney-aux-aulx",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88450",
+    "postal_codes": [
+      "88450"
+    ],
+    "insee": "88223",
+    "population": 172,
+    "lat": 48.2982,
+    "lng": 6.2738
+  },
+  {
+    "name": "Gugnécourt",
+    "slug": "gugnecourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88222",
+    "population": 223,
+    "lat": 48.2465,
+    "lng": 6.6244
+  },
+  {
+    "name": "Gérardmer",
+    "slug": "gerardmer",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88400",
+    "postal_codes": [
+      "88400"
+    ],
+    "insee": "88196",
+    "population": 7581,
+    "lat": 48.0658,
+    "lng": 6.8531
+  },
+  {
+    "name": "Hadigny-les-Verrières",
+    "slug": "hadigny-les-verrieres",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88330",
+    "postal_codes": [
+      "88330"
+    ],
+    "insee": "88224",
+    "population": 374,
+    "lat": 48.3207,
+    "lng": 6.4754
+  },
+  {
+    "name": "Hadol",
+    "slug": "hadol",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88220",
+    "postal_codes": [
+      "88220"
+    ],
+    "insee": "88225",
+    "population": 2311,
+    "lat": 48.0845,
+    "lng": 6.4475
+  },
+  {
+    "name": "Hagnéville-et-Roncourt",
+    "slug": "hagneville-et-roncourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88300",
+    "postal_codes": [
+      "88300"
+    ],
+    "insee": "88227",
+    "population": 78,
+    "lat": 48.2459,
+    "lng": 5.7871
+  },
+  {
+    "name": "Hagécourt",
+    "slug": "hagecourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88270",
+    "postal_codes": [
+      "88270"
+    ],
+    "insee": "88226",
+    "population": 128,
+    "lat": 48.2311,
+    "lng": 6.1555
+  },
+  {
+    "name": "Haillainville",
+    "slug": "haillainville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88330",
+    "postal_codes": [
+      "88330"
+    ],
+    "insee": "88228",
+    "population": 181,
+    "lat": 48.3968,
+    "lng": 6.4964
+  },
+  {
+    "name": "Harchéchamp",
+    "slug": "harchechamp",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88300",
+    "postal_codes": [
+      "88300"
+    ],
+    "insee": "88229",
+    "population": 87,
+    "lat": 48.4074,
+    "lng": 5.8015
+  },
+  {
+    "name": "Hardancourt",
+    "slug": "hardancourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88700",
+    "postal_codes": [
+      "88700"
+    ],
+    "insee": "88230",
+    "population": 34,
+    "lat": 48.3794,
+    "lng": 6.5601
+  },
+  {
+    "name": "Harmonville",
+    "slug": "harmonville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88300",
+    "postal_codes": [
+      "88300"
+    ],
+    "insee": "88232",
+    "population": 208,
+    "lat": 48.4618,
+    "lng": 5.8698
+  },
+  {
+    "name": "Harol",
+    "slug": "harol",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88270",
+    "postal_codes": [
+      "88270"
+    ],
+    "insee": "88233",
+    "population": 614,
+    "lat": 48.1465,
+    "lng": 6.2492
+  },
+  {
+    "name": "Haréville",
+    "slug": "hareville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88800",
+    "postal_codes": [
+      "88800"
+    ],
+    "insee": "88231",
+    "population": 465,
+    "lat": 48.2025,
+    "lng": 6.0188
+  },
+  {
+    "name": "Hennecourt",
+    "slug": "hennecourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88270",
+    "postal_codes": [
+      "88270"
+    ],
+    "insee": "88237",
+    "population": 343,
+    "lat": 48.218,
+    "lng": 6.2902
+  },
+  {
+    "name": "Hennezel",
+    "slug": "hennezel",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88260",
+    "postal_codes": [
+      "88260"
+    ],
+    "insee": "88238",
+    "population": 386,
+    "lat": 48.0488,
+    "lng": 6.1137
+  },
+  {
+    "name": "Hergugney",
+    "slug": "hergugney",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88130",
+    "postal_codes": [
+      "88130"
+    ],
+    "insee": "88239",
+    "population": 134,
+    "lat": 48.3897,
+    "lng": 6.2104
+  },
+  {
+    "name": "Herpelmont",
+    "slug": "herpelmont",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88240",
+    "population": 261,
+    "lat": 48.1663,
+    "lng": 6.7312
+  },
+  {
+    "name": "Housseras",
+    "slug": "housseras",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88700",
+    "postal_codes": [
+      "88700"
+    ],
+    "insee": "88243",
+    "population": 485,
+    "lat": 48.307,
+    "lng": 6.7322
+  },
+  {
+    "name": "Houécourt",
+    "slug": "houecourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88170",
+    "postal_codes": [
+      "88170"
+    ],
+    "insee": "88241",
+    "population": 421,
+    "lat": 48.2915,
+    "lng": 5.8977
+  },
+  {
+    "name": "Houéville",
+    "slug": "houeville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88300",
+    "postal_codes": [
+      "88300"
+    ],
+    "insee": "88242",
+    "population": 43,
+    "lat": 48.3703,
+    "lng": 5.8074
+  },
+  {
+    "name": "Hurbache",
+    "slug": "hurbache",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88210",
+    "postal_codes": [
+      "88210"
+    ],
+    "insee": "88245",
+    "population": 285,
+    "lat": 48.3439,
+    "lng": 6.9295
+  },
+  {
+    "name": "Hymont",
+    "slug": "hymont",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88246",
+    "population": 491,
+    "lat": 48.2635,
+    "lng": 6.136
+  },
+  {
+    "name": "Igney",
+    "slug": "igney",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88150",
+    "postal_codes": [
+      "88150"
+    ],
+    "insee": "88247",
+    "population": 1133,
+    "lat": 48.2767,
+    "lng": 6.3934
+  },
+  {
+    "name": "Isches",
+    "slug": "isches",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88320",
+    "postal_codes": [
+      "88320"
+    ],
+    "insee": "88248",
+    "population": 176,
+    "lat": 48.0178,
+    "lng": 5.8203
+  },
+  {
+    "name": "Jainvillotte",
+    "slug": "jainvillotte",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88300",
+    "postal_codes": [
+      "88300"
+    ],
+    "insee": "88249",
+    "population": 71,
+    "lat": 48.2573,
+    "lng": 5.704
+  },
+  {
+    "name": "Jarménil",
+    "slug": "jarmenil",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88550",
+    "postal_codes": [
+      "88550"
+    ],
+    "insee": "88250",
+    "population": 415,
+    "lat": 48.1154,
+    "lng": 6.593
+  },
+  {
+    "name": "Jeanménil",
+    "slug": "jeanmenil",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88700",
+    "postal_codes": [
+      "88700"
+    ],
+    "insee": "88251",
+    "population": 1106,
+    "lat": 48.3295,
+    "lng": 6.7228
+  },
+  {
+    "name": "Jeuxey",
+    "slug": "jeuxey",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88000",
+    "postal_codes": [
+      "88000"
+    ],
+    "insee": "88253",
+    "population": 663,
+    "lat": 48.2033,
+    "lng": 6.4918
+  },
+  {
+    "name": "Jorxey",
+    "slug": "jorxey",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88254",
+    "population": 81,
+    "lat": 48.3064,
+    "lng": 6.2363
+  },
+  {
+    "name": "Jubainville",
+    "slug": "jubainville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88630",
+    "postal_codes": [
+      "88630"
+    ],
+    "insee": "88255",
+    "population": 88,
+    "lat": 48.4572,
+    "lng": 5.7508
+  },
+  {
+    "name": "Jussarupt",
+    "slug": "jussarupt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88640",
+    "postal_codes": [
+      "88640"
+    ],
+    "insee": "88256",
+    "population": 256,
+    "lat": 48.1576,
+    "lng": 6.747
+  },
+  {
+    "name": "Juvaincourt",
+    "slug": "juvaincourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88257",
+    "population": 184,
+    "lat": 48.3328,
+    "lng": 6.0631
+  },
+  {
+    "name": "Jésonville",
+    "slug": "jesonville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88260",
+    "postal_codes": [
+      "88260"
+    ],
+    "insee": "88252",
+    "population": 148,
+    "lat": 48.124,
+    "lng": 6.1149
+  },
+  {
+    "name": "La Baffe",
+    "slug": "la-baffe",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88460",
+    "postal_codes": [
+      "88460"
+    ],
+    "insee": "88028",
+    "population": 631,
+    "lat": 48.165,
+    "lng": 6.5584
+  },
+  {
+    "name": "La Bourgonce",
+    "slug": "la-bourgonce",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88470",
+    "postal_codes": [
+      "88470"
+    ],
+    "insee": "88068",
+    "population": 842,
+    "lat": 48.3013,
+    "lng": 6.8129
+  },
+  {
+    "name": "La Bresse",
+    "slug": "la-bresse",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88250",
+    "postal_codes": [
+      "88250"
+    ],
+    "insee": "88075",
+    "population": 3853,
+    "lat": 48.0211,
+    "lng": 6.9202
+  },
+  {
+    "name": "La Chapelle-aux-Bois",
+    "slug": "la-chapelle-aux-bois",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88240",
+    "postal_codes": [
+      "88240"
+    ],
+    "insee": "88088",
+    "population": 675,
+    "lat": 48.03,
+    "lng": 6.3231
+  },
+  {
+    "name": "La Chapelle-devant-Bruyères",
+    "slug": "la-chapelle-devant-bruyeres",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88089",
+    "population": 547,
+    "lat": 48.1778,
+    "lng": 6.8037
+  },
+  {
+    "name": "La Croix-aux-Mines",
+    "slug": "la-croix-aux-mines",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88520",
+    "postal_codes": [
+      "88520"
+    ],
+    "insee": "88120",
+    "population": 448,
+    "lat": 48.2037,
+    "lng": 7.0675
+  },
+  {
+    "name": "La Forge",
+    "slug": "la-forge",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88530",
+    "postal_codes": [
+      "88530"
+    ],
+    "insee": "88177",
+    "population": 517,
+    "lat": 48.0696,
+    "lng": 6.7201
+  },
+  {
+    "name": "La Grande-Fosse",
+    "slug": "la-grande-fosse",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88490",
+    "postal_codes": [
+      "88490"
+    ],
+    "insee": "88213",
+    "population": 126,
+    "lat": 48.3415,
+    "lng": 7.0794
+  },
+  {
+    "name": "La Haye",
+    "slug": "la-haye",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88240",
+    "postal_codes": [
+      "88240"
+    ],
+    "insee": "88236",
+    "population": 125,
+    "lat": 48.061,
+    "lng": 6.1983
+  },
+  {
+    "name": "La Houssière",
+    "slug": "la-houssiere",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88430",
+    "postal_codes": [
+      "88430"
+    ],
+    "insee": "88244",
+    "population": 507,
+    "lat": 48.2092,
+    "lng": 6.8642
+  },
+  {
+    "name": "La Neuveville-devant-Lépanges",
+    "slug": "la-neuveville-devant-lepanges",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88322",
+    "population": 493,
+    "lat": 48.1545,
+    "lng": 6.6618
+  },
+  {
+    "name": "La Neuveville-sous-Châtenois",
+    "slug": "la-neuveville-sous-chatenois",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88170",
+    "postal_codes": [
+      "88170"
+    ],
+    "insee": "88324",
+    "population": 363,
+    "lat": 48.2862,
+    "lng": 5.874
+  },
+  {
+    "name": "La Neuveville-sous-Montfort",
+    "slug": "la-neuveville-sous-montfort",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88800",
+    "postal_codes": [
+      "88800"
+    ],
+    "insee": "88325",
+    "population": 178,
+    "lat": 48.23,
+    "lng": 6.0196
+  },
+  {
+    "name": "La Petite-Fosse",
+    "slug": "la-petite-fosse",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88490",
+    "postal_codes": [
+      "88490"
+    ],
+    "insee": "88345",
+    "population": 91,
+    "lat": 48.3184,
+    "lng": 7.0526
+  },
+  {
+    "name": "La Petite-Raon",
+    "slug": "la-petite-raon",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88210",
+    "postal_codes": [
+      "88210"
+    ],
+    "insee": "88346",
+    "population": 734,
+    "lat": 48.4205,
+    "lng": 6.994
+  },
+  {
+    "name": "La Salle",
+    "slug": "la-salle",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88470",
+    "postal_codes": [
+      "88470"
+    ],
+    "insee": "88438",
+    "population": 401,
+    "lat": 48.3241,
+    "lng": 6.8099
+  },
+  {
+    "name": "La Vacheresse-et-la-Rouillie",
+    "slug": "la-vacheresse-et-la-rouillie",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88140",
+    "postal_codes": [
+      "88140"
+    ],
+    "insee": "88485",
+    "population": 134,
+    "lat": 48.1469,
+    "lng": 5.7952
+  },
+  {
+    "name": "La Voivre",
+    "slug": "la-voivre",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88470",
+    "postal_codes": [
+      "88470"
+    ],
+    "insee": "88519",
+    "population": 648,
+    "lat": 48.3436,
+    "lng": 6.9006
+  },
+  {
+    "name": "La Vôge-les-Bains",
+    "slug": "la-voge-les-bains",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88240",
+    "postal_codes": [
+      "88240"
+    ],
+    "insee": "88029",
+    "population": 1545,
+    "lat": 48.017,
+    "lng": 6.2543
+  },
+  {
+    "name": "Lamarche",
+    "slug": "lamarche",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88320",
+    "postal_codes": [
+      "88320"
+    ],
+    "insee": "88258",
+    "population": 786,
+    "lat": 48.0617,
+    "lng": 5.7727
+  },
+  {
+    "name": "Landaville",
+    "slug": "landaville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88300",
+    "postal_codes": [
+      "88300"
+    ],
+    "insee": "88259",
+    "population": 288,
+    "lat": 48.2841,
+    "lng": 5.7467
+  },
+  {
+    "name": "Langley",
+    "slug": "langley",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88130",
+    "postal_codes": [
+      "88130"
+    ],
+    "insee": "88260",
+    "population": 140,
+    "lat": 48.3605,
+    "lng": 6.3319
+  },
+  {
+    "name": "Laval-sur-Vologne",
+    "slug": "laval-sur-vologne",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88261",
+    "population": 628,
+    "lat": 48.1953,
+    "lng": 6.6883
+  },
+  {
+    "name": "Laveline-devant-Bruyères",
+    "slug": "laveline-devant-bruyeres",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88262",
+    "population": 581,
+    "lat": 48.1866,
+    "lng": 6.7574
+  },
+  {
+    "name": "Laveline-du-Houx",
+    "slug": "laveline-du-houx",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88640",
+    "postal_codes": [
+      "88640"
+    ],
+    "insee": "88263",
+    "population": 213,
+    "lat": 48.1397,
+    "lng": 6.7091
+  },
+  {
+    "name": "Le Beulay",
+    "slug": "le-beulay",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88490",
+    "postal_codes": [
+      "88490"
+    ],
+    "insee": "88057",
+    "population": 88,
+    "lat": 48.3048,
+    "lng": 7.0651
+  },
+  {
+    "name": "Le Clerjus",
+    "slug": "le-clerjus",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88240",
+    "postal_codes": [
+      "88240"
+    ],
+    "insee": "88108",
+    "population": 457,
+    "lat": 47.979,
+    "lng": 6.3306
+  },
+  {
+    "name": "Le Mont",
+    "slug": "le-mont",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88210",
+    "postal_codes": [
+      "88210"
+    ],
+    "insee": "88306",
+    "population": 53,
+    "lat": 48.4114,
+    "lng": 7.0243
+  },
+  {
+    "name": "Le Ménil",
+    "slug": "le-menil",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88160",
+    "postal_codes": [
+      "88160"
+    ],
+    "insee": "88302",
+    "population": 970,
+    "lat": 47.9165,
+    "lng": 6.8206
+  },
+  {
+    "name": "Le Puid",
+    "slug": "le-puid",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88210",
+    "postal_codes": [
+      "88210"
+    ],
+    "insee": "88362",
+    "population": 116,
+    "lat": 48.3907,
+    "lng": 7.0441
+  },
+  {
+    "name": "Le Roulier",
+    "slug": "le-roulier",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88460",
+    "postal_codes": [
+      "88460"
+    ],
+    "insee": "88399",
+    "population": 208,
+    "lat": 48.1747,
+    "lng": 6.6159
+  },
+  {
+    "name": "Le Saulcy",
+    "slug": "le-saulcy",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88210",
+    "postal_codes": [
+      "88210"
+    ],
+    "insee": "88444",
+    "population": 293,
+    "lat": 48.423,
+    "lng": 7.07
+  },
+  {
+    "name": "Le Syndicat",
+    "slug": "le-syndicat",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88120",
+    "postal_codes": [
+      "88120"
+    ],
+    "insee": "88462",
+    "population": 1842,
+    "lat": 48.0275,
+    "lng": 6.6948
+  },
+  {
+    "name": "Le Thillot",
+    "slug": "le-thillot",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88160",
+    "postal_codes": [
+      "88160"
+    ],
+    "insee": "88468",
+    "population": 3167,
+    "lat": 47.8827,
+    "lng": 6.7775
+  },
+  {
+    "name": "Le Tholy",
+    "slug": "le-tholy",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88530",
+    "postal_codes": [
+      "88530"
+    ],
+    "insee": "88470",
+    "population": 1489,
+    "lat": 48.0862,
+    "lng": 6.7373
+  },
+  {
+    "name": "Le Val-d'Ajol",
+    "slug": "le-val-d-ajol",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88340",
+    "postal_codes": [
+      "88340"
+    ],
+    "insee": "88487",
+    "population": 3885,
+    "lat": 47.9387,
+    "lng": 6.5128
+  },
+  {
+    "name": "Le Valtin",
+    "slug": "le-valtin",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88230",
+    "postal_codes": [
+      "88230"
+    ],
+    "insee": "88492",
+    "population": 74,
+    "lat": 48.0848,
+    "lng": 7.0347
+  },
+  {
+    "name": "Le Vermont",
+    "slug": "le-vermont",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88210",
+    "postal_codes": [
+      "88210"
+    ],
+    "insee": "88501",
+    "population": 72,
+    "lat": 48.3884,
+    "lng": 7.0672
+  },
+  {
+    "name": "Lemmecourt",
+    "slug": "lemmecourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88300",
+    "postal_codes": [
+      "88300"
+    ],
+    "insee": "88265",
+    "population": 23,
+    "lat": 48.2635,
+    "lng": 5.7328
+  },
+  {
+    "name": "Lerrain",
+    "slug": "lerrain",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88260",
+    "postal_codes": [
+      "88260"
+    ],
+    "insee": "88267",
+    "population": 461,
+    "lat": 48.1325,
+    "lng": 6.1457
+  },
+  {
+    "name": "Les Ableuvenettes",
+    "slug": "les-ableuvenettes",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88270",
+    "postal_codes": [
+      "88270"
+    ],
+    "insee": "88001",
+    "population": 72,
+    "lat": 48.191,
+    "lng": 6.1937
+  },
+  {
+    "name": "Les Forges",
+    "slug": "les-forges",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88390",
+    "postal_codes": [
+      "88390"
+    ],
+    "insee": "88178",
+    "population": 1776,
+    "lat": 48.1739,
+    "lng": 6.394
+  },
+  {
+    "name": "Les Poulières",
+    "slug": "les-poulieres",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88356",
+    "population": 307,
+    "lat": 48.2036,
+    "lng": 6.786
+  },
+  {
+    "name": "Les Rouges-Eaux",
+    "slug": "les-rouges-eaux",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88398",
+    "population": 80,
+    "lat": 48.2637,
+    "lng": 6.8139
+  },
+  {
+    "name": "Les Thons",
+    "slug": "les-thons",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88410",
+    "postal_codes": [
+      "88410"
+    ],
+    "insee": "88471",
+    "population": 97,
+    "lat": 47.9867,
+    "lng": 5.8749
+  },
+  {
+    "name": "Les Vallois",
+    "slug": "les-vallois",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88260",
+    "postal_codes": [
+      "88260"
+    ],
+    "insee": "88491",
+    "population": 128,
+    "lat": 48.1585,
+    "lng": 6.1228
+  },
+  {
+    "name": "Les Voivres",
+    "slug": "les-voivres",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88240",
+    "postal_codes": [
+      "88240"
+    ],
+    "insee": "88520",
+    "population": 283,
+    "lat": 48.0312,
+    "lng": 6.2931
+  },
+  {
+    "name": "Lesseux",
+    "slug": "lesseux",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88490",
+    "postal_codes": [
+      "88490"
+    ],
+    "insee": "88268",
+    "population": 137,
+    "lat": 48.2807,
+    "lng": 7.0855
+  },
+  {
+    "name": "Liffol-le-Grand",
+    "slug": "liffol-le-grand",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88350",
+    "postal_codes": [
+      "88350"
+    ],
+    "insee": "88270",
+    "population": 2097,
+    "lat": 48.3161,
+    "lng": 5.5728
+  },
+  {
+    "name": "Lignéville",
+    "slug": "ligneville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88800",
+    "postal_codes": [
+      "88800"
+    ],
+    "insee": "88271",
+    "population": 298,
+    "lat": 48.1618,
+    "lng": 5.9513
+  },
+  {
+    "name": "Lironcourt",
+    "slug": "lironcourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88410",
+    "postal_codes": [
+      "88410"
+    ],
+    "insee": "88272",
+    "population": 68,
+    "lat": 47.9709,
+    "lng": 5.8806
+  },
+  {
+    "name": "Liézey",
+    "slug": "liezey",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88400",
+    "postal_codes": [
+      "88400"
+    ],
+    "insee": "88269",
+    "population": 304,
+    "lat": 48.0971,
+    "lng": 6.804
+  },
+  {
+    "name": "Longchamp",
+    "slug": "longchamp",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88000",
+    "postal_codes": [
+      "88000"
+    ],
+    "insee": "88273",
+    "population": 459,
+    "lat": 48.2166,
+    "lng": 6.5271
+  },
+  {
+    "name": "Longchamp-sous-Châtenois",
+    "slug": "longchamp-sous-chatenois",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88170",
+    "postal_codes": [
+      "88170"
+    ],
+    "insee": "88274",
+    "population": 82,
+    "lat": 48.2868,
+    "lng": 5.8346
+  },
+  {
+    "name": "Lubine",
+    "slug": "lubine",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88490",
+    "postal_codes": [
+      "88490"
+    ],
+    "insee": "88275",
+    "population": 245,
+    "lat": 48.3199,
+    "lng": 7.1678
+  },
+  {
+    "name": "Lusse",
+    "slug": "lusse",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88490",
+    "postal_codes": [
+      "88490"
+    ],
+    "insee": "88276",
+    "population": 354,
+    "lat": 48.2877,
+    "lng": 7.1249
+  },
+  {
+    "name": "Luvigny",
+    "slug": "luvigny",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88110",
+    "postal_codes": [
+      "88110"
+    ],
+    "insee": "88277",
+    "population": 123,
+    "lat": 48.4984,
+    "lng": 7.0741
+  },
+  {
+    "name": "Légéville-et-Bonfays",
+    "slug": "legeville-et-bonfays",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88270",
+    "postal_codes": [
+      "88270"
+    ],
+    "insee": "88264",
+    "population": 66,
+    "lat": 48.1857,
+    "lng": 6.1546
+  },
+  {
+    "name": "Lépanges-sur-Vologne",
+    "slug": "lepanges-sur-vologne",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88266",
+    "population": 844,
+    "lat": 48.18,
+    "lng": 6.6691
+  },
+  {
+    "name": "Maconcourt",
+    "slug": "maconcourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88170",
+    "postal_codes": [
+      "88170"
+    ],
+    "insee": "88278",
+    "population": 65,
+    "lat": 48.3634,
+    "lng": 5.9364
+  },
+  {
+    "name": "Madecourt",
+    "slug": "madecourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88270",
+    "postal_codes": [
+      "88270"
+    ],
+    "insee": "88279",
+    "population": 52,
+    "lat": 48.2403,
+    "lng": 6.1141
+  },
+  {
+    "name": "Madegney",
+    "slug": "madegney",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88450",
+    "postal_codes": [
+      "88450"
+    ],
+    "insee": "88280",
+    "population": 117,
+    "lat": 48.2843,
+    "lng": 6.2875
+  },
+  {
+    "name": "Madonne-et-Lamerey",
+    "slug": "madonne-et-lamerey",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88270",
+    "postal_codes": [
+      "88270"
+    ],
+    "insee": "88281",
+    "population": 407,
+    "lat": 48.2237,
+    "lng": 6.2452
+  },
+  {
+    "name": "Malaincourt",
+    "slug": "malaincourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88140",
+    "postal_codes": [
+      "88140"
+    ],
+    "insee": "88283",
+    "population": 80,
+    "lat": 48.2265,
+    "lng": 5.7673
+  },
+  {
+    "name": "Mandray",
+    "slug": "mandray",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88650",
+    "postal_codes": [
+      "88650"
+    ],
+    "insee": "88284",
+    "population": 586,
+    "lat": 48.2121,
+    "lng": 7.0008
+  },
+  {
+    "name": "Mandres-sur-Vair",
+    "slug": "mandres-sur-vair",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88800",
+    "postal_codes": [
+      "88800"
+    ],
+    "insee": "88285",
+    "population": 421,
+    "lat": 48.2212,
+    "lng": 5.8867
+  },
+  {
+    "name": "Marainville-sur-Madon",
+    "slug": "marainville-sur-madon",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88130",
+    "postal_codes": [
+      "88130"
+    ],
+    "insee": "88286",
+    "population": 94,
+    "lat": 48.3962,
+    "lng": 6.1657
+  },
+  {
+    "name": "Marey",
+    "slug": "marey",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88320",
+    "postal_codes": [
+      "88320"
+    ],
+    "insee": "88287",
+    "population": 72,
+    "lat": 48.1051,
+    "lng": 5.9076
+  },
+  {
+    "name": "Maroncourt",
+    "slug": "maroncourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88270",
+    "postal_codes": [
+      "88270"
+    ],
+    "insee": "88288",
+    "population": 5,
+    "lat": 48.2448,
+    "lng": 6.1634
+  },
+  {
+    "name": "Martigny-les-Bains",
+    "slug": "martigny-les-bains",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88320",
+    "postal_codes": [
+      "88320"
+    ],
+    "insee": "88289",
+    "population": 807,
+    "lat": 48.1094,
+    "lng": 5.8075
+  },
+  {
+    "name": "Martigny-les-Gerbonvaux",
+    "slug": "martigny-les-gerbonvaux",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88300",
+    "postal_codes": [
+      "88300"
+    ],
+    "insee": "88290",
+    "population": 121,
+    "lat": 48.4471,
+    "lng": 5.7929
+  },
+  {
+    "name": "Martinvelle",
+    "slug": "martinvelle",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88410",
+    "postal_codes": [
+      "88410"
+    ],
+    "insee": "88291",
+    "population": 119,
+    "lat": 47.9889,
+    "lng": 6.0167
+  },
+  {
+    "name": "Mattaincourt",
+    "slug": "mattaincourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88292",
+    "population": 802,
+    "lat": 48.2786,
+    "lng": 6.1222
+  },
+  {
+    "name": "Maxey-sur-Meuse",
+    "slug": "maxey-sur-meuse",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88630",
+    "postal_codes": [
+      "88630"
+    ],
+    "insee": "88293",
+    "population": 213,
+    "lat": 48.4492,
+    "lng": 5.7167
+  },
+  {
+    "name": "Mazeley",
+    "slug": "mazeley",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88150",
+    "postal_codes": [
+      "88150"
+    ],
+    "insee": "88294",
+    "population": 266,
+    "lat": 48.2507,
+    "lng": 6.3392
+  },
+  {
+    "name": "Mazirot",
+    "slug": "mazirot",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88295",
+    "population": 234,
+    "lat": 48.322,
+    "lng": 6.1599
+  },
+  {
+    "name": "Midrevaux",
+    "slug": "midrevaux",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88630",
+    "postal_codes": [
+      "88630"
+    ],
+    "insee": "88303",
+    "population": 173,
+    "lat": 48.3869,
+    "lng": 5.5827
+  },
+  {
+    "name": "Mirecourt",
+    "slug": "mirecourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88304",
+    "population": 4700,
+    "lat": 48.2937,
+    "lng": 6.1187
+  },
+  {
+    "name": "Moncel-sur-Vair",
+    "slug": "moncel-sur-vair",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88630",
+    "postal_codes": [
+      "88630"
+    ],
+    "insee": "88305",
+    "population": 171,
+    "lat": 48.4221,
+    "lng": 5.7044
+  },
+  {
+    "name": "Mont-lès-Lamarche",
+    "slug": "mont-les-lamarche",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88320",
+    "postal_codes": [
+      "88320"
+    ],
+    "insee": "88307",
+    "population": 91,
+    "lat": 48.0229,
+    "lng": 5.7984
+  },
+  {
+    "name": "Mont-lès-Neufchâteau",
+    "slug": "mont-les-neufchateau",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88300",
+    "postal_codes": [
+      "88300"
+    ],
+    "insee": "88308",
+    "population": 267,
+    "lat": 48.3513,
+    "lng": 5.6452
+  },
+  {
+    "name": "Monthureux-le-Sec",
+    "slug": "monthureux-le-sec",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88800",
+    "postal_codes": [
+      "88800"
+    ],
+    "insee": "88309",
+    "population": 175,
+    "lat": 48.1691,
+    "lng": 6.0254
+  },
+  {
+    "name": "Monthureux-sur-Saône",
+    "slug": "monthureux-sur-saone",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88410",
+    "postal_codes": [
+      "88410"
+    ],
+    "insee": "88310",
+    "population": 857,
+    "lat": 48.0289,
+    "lng": 5.9635
+  },
+  {
+    "name": "Montmotier",
+    "slug": "montmotier",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88240",
+    "postal_codes": [
+      "88240"
+    ],
+    "insee": "88311",
+    "population": 35,
+    "lat": 47.9815,
+    "lng": 6.1718
+  },
+  {
+    "name": "Morelmaison",
+    "slug": "morelmaison",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88170",
+    "postal_codes": [
+      "88170"
+    ],
+    "insee": "88312",
+    "population": 195,
+    "lat": 48.322,
+    "lng": 5.9132
+  },
+  {
+    "name": "Moriville",
+    "slug": "moriville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88330",
+    "postal_codes": [
+      "88330"
+    ],
+    "insee": "88313",
+    "population": 443,
+    "lat": 48.3515,
+    "lng": 6.4136
+  },
+  {
+    "name": "Morizécourt",
+    "slug": "morizecourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88320",
+    "postal_codes": [
+      "88320"
+    ],
+    "insee": "88314",
+    "population": 98,
+    "lat": 48.0697,
+    "lng": 5.8589
+  },
+  {
+    "name": "Mortagne",
+    "slug": "mortagne",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88315",
+    "population": 196,
+    "lat": 48.2735,
+    "lng": 6.7961
+  },
+  {
+    "name": "Morville",
+    "slug": "morville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88140",
+    "postal_codes": [
+      "88140"
+    ],
+    "insee": "88316",
+    "population": 42,
+    "lat": 48.234,
+    "lng": 5.7951
+  },
+  {
+    "name": "Moussey",
+    "slug": "moussey",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88210",
+    "postal_codes": [
+      "88210"
+    ],
+    "insee": "88317",
+    "population": 548,
+    "lat": 48.4497,
+    "lng": 7.0593
+  },
+  {
+    "name": "Moyemont",
+    "slug": "moyemont",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88700",
+    "postal_codes": [
+      "88700"
+    ],
+    "insee": "88318",
+    "population": 220,
+    "lat": 48.3438,
+    "lng": 6.5455
+  },
+  {
+    "name": "Moyenmoutier",
+    "slug": "moyenmoutier",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88420",
+    "postal_codes": [
+      "88420"
+    ],
+    "insee": "88319",
+    "population": 3134,
+    "lat": 48.3893,
+    "lng": 6.9146
+  },
+  {
+    "name": "Médonville",
+    "slug": "medonville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88140",
+    "postal_codes": [
+      "88140"
+    ],
+    "insee": "88296",
+    "population": 52,
+    "lat": 48.2151,
+    "lng": 5.7336
+  },
+  {
+    "name": "Méménil",
+    "slug": "memenil",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88297",
+    "population": 181,
+    "lat": 48.2091,
+    "lng": 6.617
+  },
+  {
+    "name": "Ménarmont",
+    "slug": "menarmont",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88700",
+    "postal_codes": [
+      "88700"
+    ],
+    "insee": "88298",
+    "population": 58,
+    "lat": 48.4172,
+    "lng": 6.6456
+  },
+  {
+    "name": "Ménil-de-Senones",
+    "slug": "menil-de-senones",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88210",
+    "postal_codes": [
+      "88210"
+    ],
+    "insee": "88300",
+    "population": 121,
+    "lat": 48.374,
+    "lng": 6.996
+  },
+  {
+    "name": "Ménil-en-Xaintois",
+    "slug": "menil-en-xaintois",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88299",
+    "population": 167,
+    "lat": 48.2988,
+    "lng": 5.9726
+  },
+  {
+    "name": "Ménil-sur-Belvitte",
+    "slug": "menil-sur-belvitte",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88700",
+    "postal_codes": [
+      "88700"
+    ],
+    "insee": "88301",
+    "population": 288,
+    "lat": 48.3856,
+    "lng": 6.696
+  },
+  {
+    "name": "Nayemont-les-Fosses",
+    "slug": "nayemont-les-fosses",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88100",
+    "postal_codes": [
+      "88100"
+    ],
+    "insee": "88320",
+    "population": 778,
+    "lat": 48.2939,
+    "lng": 7.0115
+  },
+  {
+    "name": "Neufchâteau",
+    "slug": "neufchateau",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88300",
+    "postal_codes": [
+      "88300"
+    ],
+    "insee": "88321",
+    "population": 6732,
+    "lat": 48.3568,
+    "lng": 5.7026
+  },
+  {
+    "name": "Neuvillers-sur-Fave",
+    "slug": "neuvillers-sur-fave",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88100",
+    "postal_codes": [
+      "88100"
+    ],
+    "insee": "88326",
+    "population": 357,
+    "lat": 48.2854,
+    "lng": 7.0351
+  },
+  {
+    "name": "Nomexy",
+    "slug": "nomexy",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88440",
+    "postal_codes": [
+      "88440"
+    ],
+    "insee": "88327",
+    "population": 1905,
+    "lat": 48.3073,
+    "lng": 6.3713
+  },
+  {
+    "name": "Nompatelize",
+    "slug": "nompatelize",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88470",
+    "postal_codes": [
+      "88470"
+    ],
+    "insee": "88328",
+    "population": 547,
+    "lat": 48.3274,
+    "lng": 6.8608
+  },
+  {
+    "name": "Nonville",
+    "slug": "nonville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88260",
+    "postal_codes": [
+      "88260"
+    ],
+    "insee": "88330",
+    "population": 185,
+    "lat": 48.0908,
+    "lng": 5.983
+  },
+  {
+    "name": "Nonzeville",
+    "slug": "nonzeville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88331",
+    "population": 56,
+    "lat": 48.2662,
+    "lng": 6.6313
+  },
+  {
+    "name": "Norroy",
+    "slug": "norroy",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88800",
+    "postal_codes": [
+      "88800"
+    ],
+    "insee": "88332",
+    "population": 203,
+    "lat": 48.2153,
+    "lng": 5.919
+  },
+  {
+    "name": "Nossoncourt",
+    "slug": "nossoncourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88700",
+    "postal_codes": [
+      "88700"
+    ],
+    "insee": "88333",
+    "population": 122,
+    "lat": 48.4,
+    "lng": 6.6759
+  },
+  {
+    "name": "Offroicourt",
+    "slug": "offroicourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88335",
+    "population": 145,
+    "lat": 48.2814,
+    "lng": 6.0296
+  },
+  {
+    "name": "Ollainville",
+    "slug": "ollainville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88170",
+    "postal_codes": [
+      "88170"
+    ],
+    "insee": "88336",
+    "population": 72,
+    "lat": 48.2701,
+    "lng": 5.8026
+  },
+  {
+    "name": "Ortoncourt",
+    "slug": "ortoncourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88700",
+    "postal_codes": [
+      "88700"
+    ],
+    "insee": "88338",
+    "population": 94,
+    "lat": 48.3687,
+    "lng": 6.511
+  },
+  {
+    "name": "Oëlleville",
+    "slug": "oelleville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88334",
+    "population": 266,
+    "lat": 48.3363,
+    "lng": 6.0203
+  },
+  {
+    "name": "Padoux",
+    "slug": "padoux",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88700",
+    "postal_codes": [
+      "88700"
+    ],
+    "insee": "88340",
+    "population": 488,
+    "lat": 48.2919,
+    "lng": 6.5663
+  },
+  {
+    "name": "Pair-et-Grandrupt",
+    "slug": "pair-et-grandrupt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88100",
+    "postal_codes": [
+      "88100"
+    ],
+    "insee": "88341",
+    "population": 486,
+    "lat": 48.2824,
+    "lng": 7.0107
+  },
+  {
+    "name": "Pallegney",
+    "slug": "pallegney",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88330",
+    "postal_codes": [
+      "88330"
+    ],
+    "insee": "88342",
+    "population": 178,
+    "lat": 48.2888,
+    "lng": 6.4479
+  },
+  {
+    "name": "Parey-sous-Montfort",
+    "slug": "parey-sous-montfort",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88800",
+    "postal_codes": [
+      "88800"
+    ],
+    "insee": "88343",
+    "population": 164,
+    "lat": 48.2512,
+    "lng": 5.9463
+  },
+  {
+    "name": "Pargny-sous-Mureau",
+    "slug": "pargny-sous-mureau",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88350",
+    "postal_codes": [
+      "88350"
+    ],
+    "insee": "88344",
+    "population": 190,
+    "lat": 48.3638,
+    "lng": 5.59
+  },
+  {
+    "name": "Pierrefitte",
+    "slug": "pierrefitte",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88270",
+    "postal_codes": [
+      "88270"
+    ],
+    "insee": "88347",
+    "population": 134,
+    "lat": 48.1633,
+    "lng": 6.1738
+  },
+  {
+    "name": "Pierrepont-sur-l'Arentèle",
+    "slug": "pierrepont-sur-l-arentele",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88348",
+    "population": 146,
+    "lat": 48.2628,
+    "lng": 6.6581
+  },
+  {
+    "name": "Plainfaing",
+    "slug": "plainfaing",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88230",
+    "postal_codes": [
+      "88230"
+    ],
+    "insee": "88349",
+    "population": 1569,
+    "lat": 48.143,
+    "lng": 7.0407
+  },
+  {
+    "name": "Pleuvezain",
+    "slug": "pleuvezain",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88170",
+    "postal_codes": [
+      "88170"
+    ],
+    "insee": "88350",
+    "population": 70,
+    "lat": 48.3772,
+    "lng": 5.9153
+  },
+  {
+    "name": "Plombières-les-Bains",
+    "slug": "plombieres-les-bains",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88370",
+    "postal_codes": [
+      "88370"
+    ],
+    "insee": "88351",
+    "population": 1573,
+    "lat": 47.9686,
+    "lng": 6.4434
+  },
+  {
+    "name": "Pompierre",
+    "slug": "pompierre",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88300",
+    "postal_codes": [
+      "88300"
+    ],
+    "insee": "88352",
+    "population": 187,
+    "lat": 48.2782,
+    "lng": 5.6767
+  },
+  {
+    "name": "Pont-lès-Bonfays",
+    "slug": "pont-les-bonfays",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88260",
+    "postal_codes": [
+      "88260"
+    ],
+    "insee": "88353",
+    "population": 100,
+    "lat": 48.1675,
+    "lng": 6.1411
+  },
+  {
+    "name": "Pont-sur-Madon",
+    "slug": "pont-sur-madon",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88354",
+    "population": 178,
+    "lat": 48.37,
+    "lng": 6.1515
+  },
+  {
+    "name": "Portieux",
+    "slug": "portieux",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88330",
+    "postal_codes": [
+      "88330"
+    ],
+    "insee": "88355",
+    "population": 1224,
+    "lat": 48.3447,
+    "lng": 6.3601
+  },
+  {
+    "name": "Poussay",
+    "slug": "poussay",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88357",
+    "population": 653,
+    "lat": 48.3237,
+    "lng": 6.1194
+  },
+  {
+    "name": "Pouxeux",
+    "slug": "pouxeux",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88550",
+    "postal_codes": [
+      "88550"
+    ],
+    "insee": "88358",
+    "population": 1947,
+    "lat": 48.0949,
+    "lng": 6.5705
+  },
+  {
+    "name": "Prey",
+    "slug": "prey",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88359",
+    "population": 88,
+    "lat": 48.1769,
+    "lng": 6.6888
+  },
+  {
+    "name": "Provenchères-et-Colroy",
+    "slug": "provencheres-et-colroy",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88490",
+    "postal_codes": [
+      "88490"
+    ],
+    "insee": "88361",
+    "population": 1283,
+    "lat": 48.3212,
+    "lng": 7.0984
+  },
+  {
+    "name": "Provenchères-lès-Darney",
+    "slug": "provencheres-les-darney",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88260",
+    "postal_codes": [
+      "88260"
+    ],
+    "insee": "88360",
+    "population": 143,
+    "lat": 48.1216,
+    "lng": 5.9633
+  },
+  {
+    "name": "Punerot",
+    "slug": "punerot",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88630",
+    "postal_codes": [
+      "88630"
+    ],
+    "insee": "88363",
+    "population": 149,
+    "lat": 48.4767,
+    "lng": 5.814
+  },
+  {
+    "name": "Puzieux",
+    "slug": "puzieux",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88364",
+    "population": 146,
+    "lat": 48.3352,
+    "lng": 6.1012
+  },
+  {
+    "name": "Racécourt",
+    "slug": "racecourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88270",
+    "postal_codes": [
+      "88270"
+    ],
+    "insee": "88365",
+    "population": 143,
+    "lat": 48.2562,
+    "lng": 6.1974
+  },
+  {
+    "name": "Rainville",
+    "slug": "rainville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88170",
+    "postal_codes": [
+      "88170"
+    ],
+    "insee": "88366",
+    "population": 271,
+    "lat": 48.3572,
+    "lng": 5.8874
+  },
+  {
+    "name": "Rambervillers",
+    "slug": "rambervillers",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88700",
+    "postal_codes": [
+      "88700"
+    ],
+    "insee": "88367",
+    "population": 5018,
+    "lat": 48.3457,
+    "lng": 6.6312
+  },
+  {
+    "name": "Ramecourt",
+    "slug": "ramecourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88368",
+    "population": 144,
+    "lat": 48.3076,
+    "lng": 6.0987
+  },
+  {
+    "name": "Ramonchamp",
+    "slug": "ramonchamp",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88160",
+    "postal_codes": [
+      "88160"
+    ],
+    "insee": "88369",
+    "population": 1815,
+    "lat": 47.8957,
+    "lng": 6.7407
+  },
+  {
+    "name": "Rancourt",
+    "slug": "rancourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88270",
+    "postal_codes": [
+      "88270"
+    ],
+    "insee": "88370",
+    "population": 75,
+    "lat": 48.2185,
+    "lng": 6.1101
+  },
+  {
+    "name": "Raon-aux-Bois",
+    "slug": "raon-aux-bois",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88220",
+    "postal_codes": [
+      "88220"
+    ],
+    "insee": "88371",
+    "population": 1202,
+    "lat": 48.0595,
+    "lng": 6.506
+  },
+  {
+    "name": "Raon-l'Étape",
+    "slug": "raon-l-etape",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88110",
+    "postal_codes": [
+      "88110"
+    ],
+    "insee": "88372",
+    "population": 5886,
+    "lat": 48.4039,
+    "lng": 6.8679
+  },
+  {
+    "name": "Raon-sur-Plaine",
+    "slug": "raon-sur-plaine",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88110",
+    "postal_codes": [
+      "88110"
+    ],
+    "insee": "88373",
+    "population": 135,
+    "lat": 48.5055,
+    "lng": 7.1067
+  },
+  {
+    "name": "Rapey",
+    "slug": "rapey",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88130",
+    "postal_codes": [
+      "88130"
+    ],
+    "insee": "88374",
+    "population": 24,
+    "lat": 48.3172,
+    "lng": 6.2532
+  },
+  {
+    "name": "Raves",
+    "slug": "raves",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88520",
+    "postal_codes": [
+      "88520"
+    ],
+    "insee": "88375",
+    "population": 481,
+    "lat": 48.2594,
+    "lng": 7.0436
+  },
+  {
+    "name": "Rebeuville",
+    "slug": "rebeuville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88300",
+    "postal_codes": [
+      "88300"
+    ],
+    "insee": "88376",
+    "population": 294,
+    "lat": 48.3367,
+    "lng": 5.722
+  },
+  {
+    "name": "Regney",
+    "slug": "regney",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88450",
+    "postal_codes": [
+      "88450"
+    ],
+    "insee": "88378",
+    "population": 99,
+    "lat": 48.2825,
+    "lng": 6.3105
+  },
+  {
+    "name": "Regnévelle",
+    "slug": "regnevelle",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88410",
+    "postal_codes": [
+      "88410"
+    ],
+    "insee": "88377",
+    "population": 122,
+    "lat": 47.9859,
+    "lng": 5.9709
+  },
+  {
+    "name": "Rehaincourt",
+    "slug": "rehaincourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88330",
+    "postal_codes": [
+      "88330"
+    ],
+    "insee": "88379",
+    "population": 364,
+    "lat": 48.3591,
+    "lng": 6.4628
+  },
+  {
+    "name": "Rehaupal",
+    "slug": "rehaupal",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88640",
+    "postal_codes": [
+      "88640"
+    ],
+    "insee": "88380",
+    "population": 210,
+    "lat": 48.1149,
+    "lng": 6.7413
+  },
+  {
+    "name": "Relanges",
+    "slug": "relanges",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88260",
+    "postal_codes": [
+      "88260"
+    ],
+    "insee": "88381",
+    "population": 189,
+    "lat": 48.1105,
+    "lng": 6.0184
+  },
+  {
+    "name": "Remicourt",
+    "slug": "remicourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88382",
+    "population": 63,
+    "lat": 48.2841,
+    "lng": 6.065
+  },
+  {
+    "name": "Remiremont",
+    "slug": "remiremont",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88200",
+    "postal_codes": [
+      "88200"
+    ],
+    "insee": "88383",
+    "population": 7388,
+    "lat": 48.0037,
+    "lng": 6.581
+  },
+  {
+    "name": "Remomeix",
+    "slug": "remomeix",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88100",
+    "postal_codes": [
+      "88100"
+    ],
+    "insee": "88386",
+    "population": 428,
+    "lat": 48.2639,
+    "lng": 7.0105
+  },
+  {
+    "name": "Remoncourt",
+    "slug": "remoncourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88800",
+    "postal_codes": [
+      "88800"
+    ],
+    "insee": "88385",
+    "population": 567,
+    "lat": 48.2233,
+    "lng": 6.0566
+  },
+  {
+    "name": "Removille",
+    "slug": "removille",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88170",
+    "postal_codes": [
+      "88170"
+    ],
+    "insee": "88387",
+    "population": 189,
+    "lat": 48.3684,
+    "lng": 5.8457
+  },
+  {
+    "name": "Renauvoid",
+    "slug": "renauvoid",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88390",
+    "postal_codes": [
+      "88390"
+    ],
+    "insee": "88388",
+    "population": 118,
+    "lat": 48.1419,
+    "lng": 6.3832
+  },
+  {
+    "name": "Repel",
+    "slug": "repel",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88389",
+    "population": 83,
+    "lat": 48.345,
+    "lng": 5.9807
+  },
+  {
+    "name": "Robécourt",
+    "slug": "robecourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88320",
+    "postal_codes": [
+      "88320"
+    ],
+    "insee": "88390",
+    "population": 104,
+    "lat": 48.1373,
+    "lng": 5.7107
+  },
+  {
+    "name": "Rochesson",
+    "slug": "rochesson",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88120",
+    "postal_codes": [
+      "88120"
+    ],
+    "insee": "88391",
+    "population": 676,
+    "lat": 48.0193,
+    "lng": 6.8226
+  },
+  {
+    "name": "Romain-aux-Bois",
+    "slug": "romain-aux-bois",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88320",
+    "postal_codes": [
+      "88320"
+    ],
+    "insee": "88394",
+    "population": 47,
+    "lat": 48.077,
+    "lng": 5.7145
+  },
+  {
+    "name": "Romont",
+    "slug": "romont",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88700",
+    "postal_codes": [
+      "88700"
+    ],
+    "insee": "88395",
+    "population": 358,
+    "lat": 48.347,
+    "lng": 6.5804
+  },
+  {
+    "name": "Rouvres-en-Xaintois",
+    "slug": "rouvres-en-xaintois",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88400",
+    "population": 259,
+    "lat": 48.2999,
+    "lng": 6.0182
+  },
+  {
+    "name": "Rouvres-la-Chétive",
+    "slug": "rouvres-la-chetive",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88170",
+    "postal_codes": [
+      "88170"
+    ],
+    "insee": "88401",
+    "population": 468,
+    "lat": 48.3048,
+    "lng": 5.7783
+  },
+  {
+    "name": "Roville-aux-Chênes",
+    "slug": "roville-aux-chenes",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88700",
+    "postal_codes": [
+      "88700"
+    ],
+    "insee": "88402",
+    "population": 350,
+    "lat": 48.3827,
+    "lng": 6.6131
+  },
+  {
+    "name": "Rozerotte",
+    "slug": "rozerotte",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88403",
+    "population": 181,
+    "lat": 48.2409,
+    "lng": 6.0855
+  },
+  {
+    "name": "Rozières-sur-Mouzon",
+    "slug": "rozieres-sur-mouzon",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88320",
+    "postal_codes": [
+      "88320"
+    ],
+    "insee": "88404",
+    "population": 69,
+    "lat": 48.1148,
+    "lng": 5.7248
+  },
+  {
+    "name": "Rugney",
+    "slug": "rugney",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88130",
+    "postal_codes": [
+      "88130"
+    ],
+    "insee": "88406",
+    "population": 130,
+    "lat": 48.3452,
+    "lng": 6.2499
+  },
+  {
+    "name": "Ruppes",
+    "slug": "ruppes",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88630",
+    "postal_codes": [
+      "88630"
+    ],
+    "insee": "88407",
+    "population": 149,
+    "lat": 48.4642,
+    "lng": 5.7704
+  },
+  {
+    "name": "Rupt-sur-Moselle",
+    "slug": "rupt-sur-moselle",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88360",
+    "postal_codes": [
+      "88360"
+    ],
+    "insee": "88408",
+    "population": 3419,
+    "lat": 47.9287,
+    "lng": 6.6657
+  },
+  {
+    "name": "Saint-Amé",
+    "slug": "saint-ame",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88120",
+    "postal_codes": [
+      "88120"
+    ],
+    "insee": "88409",
+    "population": 2129,
+    "lat": 48.0235,
+    "lng": 6.6526
+  },
+  {
+    "name": "Saint-Baslemont",
+    "slug": "saint-baslemont",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88260",
+    "postal_codes": [
+      "88260"
+    ],
+    "insee": "88411",
+    "population": 87,
+    "lat": 48.1417,
+    "lng": 5.9941
+  },
+  {
+    "name": "Saint-Benoît-la-Chipotte",
+    "slug": "saint-benoit-la-chipotte",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88700",
+    "postal_codes": [
+      "88700"
+    ],
+    "insee": "88412",
+    "population": 442,
+    "lat": 48.355,
+    "lng": 6.7489
+  },
+  {
+    "name": "Saint-Dié-des-Vosges",
+    "slug": "saint-die-des-vosges",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88100",
+    "postal_codes": [
+      "88100"
+    ],
+    "insee": "88413",
+    "population": 19251,
+    "lat": 48.2973,
+    "lng": 6.9386
+  },
+  {
+    "name": "Saint-Genest",
+    "slug": "saint-genest",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88700",
+    "postal_codes": [
+      "88700"
+    ],
+    "insee": "88416",
+    "population": 131,
+    "lat": 48.3456,
+    "lng": 6.51
+  },
+  {
+    "name": "Saint-Gorgon",
+    "slug": "saint-gorgon",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88700",
+    "postal_codes": [
+      "88700"
+    ],
+    "insee": "88417",
+    "population": 359,
+    "lat": 48.3218,
+    "lng": 6.6549
+  },
+  {
+    "name": "Saint-Jean-d'Ormont",
+    "slug": "saint-jean-d-ormont",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88210",
+    "postal_codes": [
+      "88210"
+    ],
+    "insee": "88419",
+    "population": 134,
+    "lat": 48.3312,
+    "lng": 6.9895
+  },
+  {
+    "name": "Saint-Julien",
+    "slug": "saint-julien",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88410",
+    "postal_codes": [
+      "88410"
+    ],
+    "insee": "88421",
+    "population": 103,
+    "lat": 48.0202,
+    "lng": 5.9082
+  },
+  {
+    "name": "Saint-Léonard",
+    "slug": "saint-leonard",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88650",
+    "postal_codes": [
+      "88650"
+    ],
+    "insee": "88423",
+    "population": 1389,
+    "lat": 48.2144,
+    "lng": 6.9203
+  },
+  {
+    "name": "Saint-Maurice-sur-Mortagne",
+    "slug": "saint-maurice-sur-mortagne",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88700",
+    "postal_codes": [
+      "88700"
+    ],
+    "insee": "88425",
+    "population": 182,
+    "lat": 48.3904,
+    "lng": 6.572
+  },
+  {
+    "name": "Saint-Maurice-sur-Moselle",
+    "slug": "saint-maurice-sur-moselle",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88560",
+    "postal_codes": [
+      "88560"
+    ],
+    "insee": "88426",
+    "population": 1306,
+    "lat": 47.844,
+    "lng": 6.8543
+  },
+  {
+    "name": "Saint-Menge",
+    "slug": "saint-menge",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88170",
+    "postal_codes": [
+      "88170"
+    ],
+    "insee": "88427",
+    "population": 115,
+    "lat": 48.2883,
+    "lng": 5.9528
+  },
+  {
+    "name": "Saint-Michel-sur-Meurthe",
+    "slug": "saint-michel-sur-meurthe",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88470",
+    "postal_codes": [
+      "88470"
+    ],
+    "insee": "88428",
+    "population": 1785,
+    "lat": 48.3132,
+    "lng": 6.8768
+  },
+  {
+    "name": "Saint-Nabord",
+    "slug": "saint-nabord",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88200",
+    "postal_codes": [
+      "88200"
+    ],
+    "insee": "88429",
+    "population": 3953,
+    "lat": 48.0423,
+    "lng": 6.5608
+  },
+  {
+    "name": "Saint-Ouen-lès-Parey",
+    "slug": "saint-ouen-les-parey",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88140",
+    "postal_codes": [
+      "88140"
+    ],
+    "insee": "88430",
+    "population": 487,
+    "lat": 48.1681,
+    "lng": 5.7752
+  },
+  {
+    "name": "Saint-Paul",
+    "slug": "saint-paul",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88170",
+    "postal_codes": [
+      "88170"
+    ],
+    "insee": "88431",
+    "population": 145,
+    "lat": 48.3317,
+    "lng": 5.888
+  },
+  {
+    "name": "Saint-Pierremont",
+    "slug": "saint-pierremont",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88700",
+    "postal_codes": [
+      "88700"
+    ],
+    "insee": "88432",
+    "population": 153,
+    "lat": 48.4398,
+    "lng": 6.5813
+  },
+  {
+    "name": "Saint-Prancher",
+    "slug": "saint-prancher",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88433",
+    "population": 66,
+    "lat": 48.3451,
+    "lng": 5.9468
+  },
+  {
+    "name": "Saint-Remimont",
+    "slug": "saint-remimont",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88800",
+    "postal_codes": [
+      "88800"
+    ],
+    "insee": "88434",
+    "population": 206,
+    "lat": 48.2413,
+    "lng": 5.9123
+  },
+  {
+    "name": "Saint-Remy",
+    "slug": "saint-remy",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88480",
+    "postal_codes": [
+      "88480"
+    ],
+    "insee": "88435",
+    "population": 518,
+    "lat": 48.3441,
+    "lng": 6.8146
+  },
+  {
+    "name": "Saint-Stail",
+    "slug": "saint-stail",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88210",
+    "postal_codes": [
+      "88210"
+    ],
+    "insee": "88436",
+    "population": 71,
+    "lat": 48.3772,
+    "lng": 7.086
+  },
+  {
+    "name": "Saint-Vallier",
+    "slug": "saint-vallier",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88270",
+    "postal_codes": [
+      "88270"
+    ],
+    "insee": "88437",
+    "population": 100,
+    "lat": 48.2796,
+    "lng": 6.3198
+  },
+  {
+    "name": "Saint-Étienne-lès-Remiremont",
+    "slug": "saint-etienne-les-remiremont",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88200",
+    "postal_codes": [
+      "88200"
+    ],
+    "insee": "88415",
+    "population": 3818,
+    "lat": 48.0306,
+    "lng": 6.6311
+  },
+  {
+    "name": "Sainte-Barbe",
+    "slug": "sainte-barbe",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88700",
+    "postal_codes": [
+      "88700"
+    ],
+    "insee": "88410",
+    "population": 267,
+    "lat": 48.396,
+    "lng": 6.7548
+  },
+  {
+    "name": "Sainte-Hélène",
+    "slug": "sainte-helene",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88700",
+    "postal_codes": [
+      "88700"
+    ],
+    "insee": "88418",
+    "population": 447,
+    "lat": 48.2947,
+    "lng": 6.6638
+  },
+  {
+    "name": "Sainte-Marguerite",
+    "slug": "sainte-marguerite",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88100",
+    "postal_codes": [
+      "88100"
+    ],
+    "insee": "88424",
+    "population": 2234,
+    "lat": 48.2686,
+    "lng": 6.9694
+  },
+  {
+    "name": "Sanchey",
+    "slug": "sanchey",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88390",
+    "postal_codes": [
+      "88390"
+    ],
+    "insee": "88439",
+    "population": 963,
+    "lat": 48.1676,
+    "lng": 6.371
+  },
+  {
+    "name": "Sandaucourt",
+    "slug": "sandaucourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88170",
+    "postal_codes": [
+      "88170"
+    ],
+    "insee": "88440",
+    "population": 181,
+    "lat": 48.2609,
+    "lng": 5.846
+  },
+  {
+    "name": "Sans-Vallois",
+    "slug": "sans-vallois",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88260",
+    "postal_codes": [
+      "88260"
+    ],
+    "insee": "88441",
+    "population": 126,
+    "lat": 48.1578,
+    "lng": 6.1018
+  },
+  {
+    "name": "Sapois",
+    "slug": "sapois",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88120",
+    "postal_codes": [
+      "88120"
+    ],
+    "insee": "88442",
+    "population": 625,
+    "lat": 48.0341,
+    "lng": 6.7876
+  },
+  {
+    "name": "Sartes",
+    "slug": "sartes",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88300",
+    "postal_codes": [
+      "88300"
+    ],
+    "insee": "88443",
+    "population": 88,
+    "lat": 48.2424,
+    "lng": 5.6652
+  },
+  {
+    "name": "Saulcy-sur-Meurthe",
+    "slug": "saulcy-sur-meurthe",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88580",
+    "postal_codes": [
+      "88580"
+    ],
+    "insee": "88445",
+    "population": 2319,
+    "lat": 48.2426,
+    "lng": 6.9462
+  },
+  {
+    "name": "Saulxures-lès-Bulgnéville",
+    "slug": "saulxures-les-bulgneville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88140",
+    "postal_codes": [
+      "88140"
+    ],
+    "insee": "88446",
+    "population": 227,
+    "lat": 48.1901,
+    "lng": 5.8152
+  },
+  {
+    "name": "Saulxures-sur-Moselotte",
+    "slug": "saulxures-sur-moselotte",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88290",
+    "postal_codes": [
+      "88290"
+    ],
+    "insee": "88447",
+    "population": 2566,
+    "lat": 47.9519,
+    "lng": 6.7687
+  },
+  {
+    "name": "Sauville",
+    "slug": "sauville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88140",
+    "postal_codes": [
+      "88140"
+    ],
+    "insee": "88448",
+    "population": 168,
+    "lat": 48.1473,
+    "lng": 5.7415
+  },
+  {
+    "name": "Savigny",
+    "slug": "savigny",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88130",
+    "postal_codes": [
+      "88130"
+    ],
+    "insee": "88449",
+    "population": 211,
+    "lat": 48.3546,
+    "lng": 6.2195
+  },
+  {
+    "name": "Senaide",
+    "slug": "senaide",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88320",
+    "postal_codes": [
+      "88320"
+    ],
+    "insee": "88450",
+    "population": 185,
+    "lat": 47.9708,
+    "lng": 5.8095
+  },
+  {
+    "name": "Senones",
+    "slug": "senones",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88210",
+    "postal_codes": [
+      "88210"
+    ],
+    "insee": "88451",
+    "population": 2205,
+    "lat": 48.4036,
+    "lng": 6.9609
+  },
+  {
+    "name": "Senonges",
+    "slug": "senonges",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88260",
+    "postal_codes": [
+      "88260"
+    ],
+    "insee": "88452",
+    "population": 131,
+    "lat": 48.1433,
+    "lng": 6.0548
+  },
+  {
+    "name": "Seraumont",
+    "slug": "seraumont",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88630",
+    "postal_codes": [
+      "88630"
+    ],
+    "insee": "88453",
+    "population": 33,
+    "lat": 48.4322,
+    "lng": 5.6075
+  },
+  {
+    "name": "Sercœur",
+    "slug": "sercoeur",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88454",
+    "population": 225,
+    "lat": 48.26,
+    "lng": 6.5347
+  },
+  {
+    "name": "Serocourt",
+    "slug": "serocourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88320",
+    "postal_codes": [
+      "88320"
+    ],
+    "insee": "88456",
+    "population": 84,
+    "lat": 48.0973,
+    "lng": 5.8951
+  },
+  {
+    "name": "Serécourt",
+    "slug": "serecourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88320",
+    "postal_codes": [
+      "88320"
+    ],
+    "insee": "88455",
+    "population": 100,
+    "lat": 48.0529,
+    "lng": 5.8484
+  },
+  {
+    "name": "Sionne",
+    "slug": "sionne",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88630",
+    "postal_codes": [
+      "88630"
+    ],
+    "insee": "88457",
+    "population": 139,
+    "lat": 48.395,
+    "lng": 5.6355
+  },
+  {
+    "name": "Socourt",
+    "slug": "socourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88130",
+    "postal_codes": [
+      "88130"
+    ],
+    "insee": "88458",
+    "population": 282,
+    "lat": 48.3967,
+    "lng": 6.2499
+  },
+  {
+    "name": "Soncourt",
+    "slug": "soncourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88170",
+    "postal_codes": [
+      "88170"
+    ],
+    "insee": "88459",
+    "population": 42,
+    "lat": 48.3875,
+    "lng": 5.9093
+  },
+  {
+    "name": "Soulosse-sous-Saint-Élophe",
+    "slug": "soulosse-sous-saint-elophe",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88630",
+    "postal_codes": [
+      "88630"
+    ],
+    "insee": "88460",
+    "population": 649,
+    "lat": 48.4109,
+    "lng": 5.744
+  },
+  {
+    "name": "Suriauville",
+    "slug": "suriauville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88140",
+    "postal_codes": [
+      "88140"
+    ],
+    "insee": "88461",
+    "population": 200,
+    "lat": 48.168,
+    "lng": 5.8649
+  },
+  {
+    "name": "Taintrux",
+    "slug": "taintrux",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88100",
+    "postal_codes": [
+      "88100"
+    ],
+    "insee": "88463",
+    "population": 1439,
+    "lat": 48.2506,
+    "lng": 6.8801
+  },
+  {
+    "name": "Tendon",
+    "slug": "tendon",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88460",
+    "postal_codes": [
+      "88460"
+    ],
+    "insee": "88464",
+    "population": 499,
+    "lat": 48.1067,
+    "lng": 6.6754
+  },
+  {
+    "name": "Thaon-les-Vosges",
+    "slug": "thaon-les-vosges",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88150",
+    "postal_codes": [
+      "88150"
+    ],
+    "insee": "88465",
+    "population": 8547,
+    "lat": 48.2498,
+    "lng": 6.4244
+  },
+  {
+    "name": "They-sous-Montfort",
+    "slug": "they-sous-montfort",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88800",
+    "postal_codes": [
+      "88800"
+    ],
+    "insee": "88466",
+    "population": 121,
+    "lat": 48.2297,
+    "lng": 5.9708
+  },
+  {
+    "name": "Thiraucourt",
+    "slug": "thiraucourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88469",
+    "population": 101,
+    "lat": 48.2917,
+    "lng": 6.0741
+  },
+  {
+    "name": "Thiéfosse",
+    "slug": "thiefosse",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88290",
+    "postal_codes": [
+      "88290"
+    ],
+    "insee": "88467",
+    "population": 593,
+    "lat": 47.9642,
+    "lng": 6.7353
+  },
+  {
+    "name": "Thuillières",
+    "slug": "thuillieres",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88260",
+    "postal_codes": [
+      "88260"
+    ],
+    "insee": "88472",
+    "population": 108,
+    "lat": 48.1514,
+    "lng": 6.0122
+  },
+  {
+    "name": "Tignécourt",
+    "slug": "tignecourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88320",
+    "postal_codes": [
+      "88320"
+    ],
+    "insee": "88473",
+    "population": 80,
+    "lat": 48.0447,
+    "lng": 5.8909
+  },
+  {
+    "name": "Tilleux",
+    "slug": "tilleux",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88300",
+    "postal_codes": [
+      "88300"
+    ],
+    "insee": "88474",
+    "population": 67,
+    "lat": 48.3,
+    "lng": 5.7344
+  },
+  {
+    "name": "Tollaincourt",
+    "slug": "tollaincourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88320",
+    "postal_codes": [
+      "88320"
+    ],
+    "insee": "88475",
+    "population": 116,
+    "lat": 48.0941,
+    "lng": 5.7233
+  },
+  {
+    "name": "Totainville",
+    "slug": "totainville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88476",
+    "population": 111,
+    "lat": 48.3262,
+    "lng": 5.9855
+  },
+  {
+    "name": "Trampot",
+    "slug": "trampot",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88350",
+    "postal_codes": [
+      "88350"
+    ],
+    "insee": "88477",
+    "population": 99,
+    "lat": 48.3557,
+    "lng": 5.4458
+  },
+  {
+    "name": "Tranqueville-Graux",
+    "slug": "tranqueville-graux",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88300",
+    "postal_codes": [
+      "88300"
+    ],
+    "insee": "88478",
+    "population": 82,
+    "lat": 48.4397,
+    "lng": 5.8461
+  },
+  {
+    "name": "Trémonzey",
+    "slug": "tremonzey",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88240",
+    "postal_codes": [
+      "88240"
+    ],
+    "insee": "88479",
+    "population": 234,
+    "lat": 47.9616,
+    "lng": 6.2467
+  },
+  {
+    "name": "Ubexy",
+    "slug": "ubexy",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88130",
+    "postal_codes": [
+      "88130"
+    ],
+    "insee": "88480",
+    "population": 170,
+    "lat": 48.3393,
+    "lng": 6.2817
+  },
+  {
+    "name": "Uriménil",
+    "slug": "urimenil",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88220",
+    "postal_codes": [
+      "88220"
+    ],
+    "insee": "88481",
+    "population": 1323,
+    "lat": 48.1027,
+    "lng": 6.3978
+  },
+  {
+    "name": "Urville",
+    "slug": "urville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88140",
+    "postal_codes": [
+      "88140"
+    ],
+    "insee": "88482",
+    "population": 54,
+    "lat": 48.1895,
+    "lng": 5.7475
+  },
+  {
+    "name": "Uxegney",
+    "slug": "uxegney",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88390",
+    "postal_codes": [
+      "88390"
+    ],
+    "insee": "88483",
+    "population": 2237,
+    "lat": 48.1954,
+    "lng": 6.3844
+  },
+  {
+    "name": "Uzemain",
+    "slug": "uzemain",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88220",
+    "postal_codes": [
+      "88220"
+    ],
+    "insee": "88484",
+    "population": 1046,
+    "lat": 48.1039,
+    "lng": 6.3444
+  },
+  {
+    "name": "Vagney",
+    "slug": "vagney",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88120",
+    "postal_codes": [
+      "88120"
+    ],
+    "insee": "88486",
+    "population": 3843,
+    "lat": 48.0135,
+    "lng": 6.727
+  },
+  {
+    "name": "Valfroicourt",
+    "slug": "valfroicourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88270",
+    "postal_codes": [
+      "88270"
+    ],
+    "insee": "88488",
+    "population": 228,
+    "lat": 48.1976,
+    "lng": 6.0863
+  },
+  {
+    "name": "Valleroy-aux-Saules",
+    "slug": "valleroy-aux-saules",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88270",
+    "postal_codes": [
+      "88270"
+    ],
+    "insee": "88489",
+    "population": 255,
+    "lat": 48.2433,
+    "lng": 6.1392
+  },
+  {
+    "name": "Valleroy-le-Sec",
+    "slug": "valleroy-le-sec",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88800",
+    "postal_codes": [
+      "88800"
+    ],
+    "insee": "88490",
+    "population": 190,
+    "lat": 48.1844,
+    "lng": 6.0027
+  },
+  {
+    "name": "Varmonzey",
+    "slug": "varmonzey",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88450",
+    "postal_codes": [
+      "88450"
+    ],
+    "insee": "88493",
+    "population": 25,
+    "lat": 48.324,
+    "lng": 6.2773
+  },
+  {
+    "name": "Vaubexy",
+    "slug": "vaubexy",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88494",
+    "population": 125,
+    "lat": 48.2844,
+    "lng": 6.2395
+  },
+  {
+    "name": "Vaudoncourt",
+    "slug": "vaudoncourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88140",
+    "postal_codes": [
+      "88140"
+    ],
+    "insee": "88496",
+    "population": 146,
+    "lat": 48.2223,
+    "lng": 5.8035
+  },
+  {
+    "name": "Vaudéville",
+    "slug": "vaudeville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88000",
+    "postal_codes": [
+      "88000"
+    ],
+    "insee": "88495",
+    "population": 199,
+    "lat": 48.2284,
+    "lng": 6.5387
+  },
+  {
+    "name": "Vaxoncourt",
+    "slug": "vaxoncourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88330",
+    "postal_codes": [
+      "88330"
+    ],
+    "insee": "88497",
+    "population": 507,
+    "lat": 48.2886,
+    "lng": 6.422
+  },
+  {
+    "name": "Vecoux",
+    "slug": "vecoux",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88200",
+    "postal_codes": [
+      "88200"
+    ],
+    "insee": "88498",
+    "population": 871,
+    "lat": 47.9702,
+    "lng": 6.6635
+  },
+  {
+    "name": "Velotte-et-Tatignécourt",
+    "slug": "velotte-et-tatignecourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88270",
+    "postal_codes": [
+      "88270"
+    ],
+    "insee": "88499",
+    "population": 158,
+    "lat": 48.2548,
+    "lng": 6.1705
+  },
+  {
+    "name": "Ventron",
+    "slug": "ventron",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88310",
+    "postal_codes": [
+      "88310"
+    ],
+    "insee": "88500",
+    "population": 805,
+    "lat": 47.9375,
+    "lng": 6.8821
+  },
+  {
+    "name": "Vervezelle",
+    "slug": "vervezelle",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88502",
+    "population": 108,
+    "lat": 48.2216,
+    "lng": 6.7413
+  },
+  {
+    "name": "Vexaincourt",
+    "slug": "vexaincourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88110",
+    "postal_codes": [
+      "88110"
+    ],
+    "insee": "88503",
+    "population": 146,
+    "lat": 48.4794,
+    "lng": 7.074
+  },
+  {
+    "name": "Vicherey",
+    "slug": "vicherey",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88170",
+    "postal_codes": [
+      "88170"
+    ],
+    "insee": "88504",
+    "population": 154,
+    "lat": 48.3817,
+    "lng": 5.9331
+  },
+  {
+    "name": "Vienville",
+    "slug": "vienville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88430",
+    "postal_codes": [
+      "88430"
+    ],
+    "insee": "88505",
+    "population": 117,
+    "lat": 48.1762,
+    "lng": 6.8436
+  },
+  {
+    "name": "Vieux-Moulin",
+    "slug": "vieux-moulin",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88210",
+    "postal_codes": [
+      "88210"
+    ],
+    "insee": "88506",
+    "population": 326,
+    "lat": 48.3928,
+    "lng": 7.0054
+  },
+  {
+    "name": "Ville-sur-Illon",
+    "slug": "ville-sur-illon",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88270",
+    "postal_codes": [
+      "88270"
+    ],
+    "insee": "88508",
+    "population": 517,
+    "lat": 48.1668,
+    "lng": 6.2166
+  },
+  {
+    "name": "Villers",
+    "slug": "villers",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88507",
+    "population": 188,
+    "lat": 48.305,
+    "lng": 6.1731
+  },
+  {
+    "name": "Villoncourt",
+    "slug": "villoncourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88150",
+    "postal_codes": [
+      "88150"
+    ],
+    "insee": "88509",
+    "population": 101,
+    "lat": 48.2711,
+    "lng": 6.5151
+  },
+  {
+    "name": "Villotte",
+    "slug": "villotte",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88320",
+    "postal_codes": [
+      "88320"
+    ],
+    "insee": "88510",
+    "population": 116,
+    "lat": 48.1062,
+    "lng": 5.7666
+  },
+  {
+    "name": "Villouxel",
+    "slug": "villouxel",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88350",
+    "postal_codes": [
+      "88350"
+    ],
+    "insee": "88511",
+    "population": 83,
+    "lat": 48.3477,
+    "lng": 5.5797
+  },
+  {
+    "name": "Viménil",
+    "slug": "vimenil",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88600",
+    "postal_codes": [
+      "88600"
+    ],
+    "insee": "88512",
+    "population": 233,
+    "lat": 48.2173,
+    "lng": 6.6379
+  },
+  {
+    "name": "Vincey",
+    "slug": "vincey",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88450",
+    "postal_codes": [
+      "88450"
+    ],
+    "insee": "88513",
+    "population": 2053,
+    "lat": 48.3325,
+    "lng": 6.3314
+  },
+  {
+    "name": "Viocourt",
+    "slug": "viocourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88170",
+    "postal_codes": [
+      "88170"
+    ],
+    "insee": "88514",
+    "population": 165,
+    "lat": 48.3242,
+    "lng": 5.8724
+  },
+  {
+    "name": "Vioménil",
+    "slug": "viomenil",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88260",
+    "postal_codes": [
+      "88260"
+    ],
+    "insee": "88515",
+    "population": 153,
+    "lat": 48.0894,
+    "lng": 6.1625
+  },
+  {
+    "name": "Vittel",
+    "slug": "vittel",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88800",
+    "postal_codes": [
+      "88800"
+    ],
+    "insee": "88516",
+    "population": 4780,
+    "lat": 48.2062,
+    "lng": 5.9552
+  },
+  {
+    "name": "Viviers-le-Gras",
+    "slug": "viviers-le-gras",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88260",
+    "postal_codes": [
+      "88260"
+    ],
+    "insee": "88517",
+    "population": 181,
+    "lat": 48.1215,
+    "lng": 5.931
+  },
+  {
+    "name": "Viviers-lès-Offroicourt",
+    "slug": "viviers-les-offroicourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88518",
+    "population": 26,
+    "lat": 48.2693,
+    "lng": 6.017
+  },
+  {
+    "name": "Vomécourt",
+    "slug": "vomecourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88700",
+    "postal_codes": [
+      "88700"
+    ],
+    "insee": "88521",
+    "population": 267,
+    "lat": 48.3144,
+    "lng": 6.6128
+  },
+  {
+    "name": "Vomécourt-sur-Madon",
+    "slug": "vomecourt-sur-madon",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88522",
+    "population": 67,
+    "lat": 48.3621,
+    "lng": 6.1704
+  },
+  {
+    "name": "Vouxey",
+    "slug": "vouxey",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88170",
+    "postal_codes": [
+      "88170"
+    ],
+    "insee": "88523",
+    "population": 172,
+    "lat": 48.3455,
+    "lng": 5.7951
+  },
+  {
+    "name": "Vroville",
+    "slug": "vroville",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88500",
+    "postal_codes": [
+      "88500"
+    ],
+    "insee": "88525",
+    "population": 135,
+    "lat": 48.2919,
+    "lng": 6.1735
+  },
+  {
+    "name": "Vrécourt",
+    "slug": "vrecourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88140",
+    "postal_codes": [
+      "88140"
+    ],
+    "insee": "88524",
+    "population": 341,
+    "lat": 48.1679,
+    "lng": 5.7062
+  },
+  {
+    "name": "Wisembach",
+    "slug": "wisembach",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88520",
+    "postal_codes": [
+      "88520"
+    ],
+    "insee": "88526",
+    "population": 427,
+    "lat": 48.2588,
+    "lng": 7.1154
+  },
+  {
+    "name": "Xaffévillers",
+    "slug": "xaffevillers",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88700",
+    "postal_codes": [
+      "88700"
+    ],
+    "insee": "88527",
+    "population": 131,
+    "lat": 48.4104,
+    "lng": 6.611
+  },
+  {
+    "name": "Xamontarupt",
+    "slug": "xamontarupt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88460",
+    "postal_codes": [
+      "88460"
+    ],
+    "insee": "88528",
+    "population": 152,
+    "lat": 48.1241,
+    "lng": 6.6414
+  },
+  {
+    "name": "Xaronval",
+    "slug": "xaronval",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88130",
+    "postal_codes": [
+      "88130"
+    ],
+    "insee": "88529",
+    "population": 107,
+    "lat": 48.372,
+    "lng": 6.1858
+  },
+  {
+    "name": "Xertigny",
+    "slug": "xertigny",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88220",
+    "postal_codes": [
+      "88220"
+    ],
+    "insee": "88530",
+    "population": 2589,
+    "lat": 48.0318,
+    "lng": 6.369
+  },
+  {
+    "name": "Xonrupt-Longemer",
+    "slug": "xonrupt-longemer",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88400",
+    "postal_codes": [
+      "88400"
+    ],
+    "insee": "88531",
+    "population": 1479,
+    "lat": 48.0726,
+    "lng": 6.9566
+  },
+  {
+    "name": "Zincourt",
+    "slug": "zincourt",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88330",
+    "postal_codes": [
+      "88330"
+    ],
+    "insee": "88532",
+    "population": 75,
+    "lat": 48.3092,
+    "lng": 6.4441
+  },
+  {
+    "name": "Éloyes",
+    "slug": "eloyes",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88510",
+    "postal_codes": [
+      "88510"
+    ],
+    "insee": "88158",
+    "population": 3138,
+    "lat": 48.0915,
+    "lng": 6.6238
+  },
+  {
+    "name": "Épinal",
+    "slug": "epinal",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88000",
+    "postal_codes": [
+      "88000"
+    ],
+    "insee": "88160",
+    "population": 32251,
+    "lat": 48.1637,
+    "lng": 6.4867
+  },
+  {
+    "name": "Étival-Clairefontaine",
+    "slug": "etival-clairefontaine",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88480",
+    "postal_codes": [
+      "88480"
+    ],
+    "insee": "88165",
+    "population": 2437,
+    "lat": 48.3666,
+    "lng": 6.8351
+  },
+  {
+    "name": "Évaux-et-Ménil",
+    "slug": "evaux-et-menil",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88450",
+    "postal_codes": [
+      "88450"
+    ],
+    "insee": "88166",
+    "population": 350,
+    "lat": 48.3253,
+    "lng": 6.3023
+  }
+]
