@@ -1,0 +1,37 @@
+# ============================================================================
+# INTERDIRE L'ACCÈS DIRECT À LA RACINE DU PROJET
+# ============================================================================
+
+# Rediriger vers le répertoire public
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteRule ^$ public/ [L]
+  RewriteRule (.*) public/$1 [L]
+</IfModule>
+
+# Si mod_rewrite n'est pas disponible
+# Interdire l'accès à tous les fichiers
+<IfModule !mod_rewrite.c>
+  Order deny,allow
+  Deny from all
+</IfModule>
+
+# ============================================================================
+# PROTECTION DES FICHIERS SENSIBLES
+# ============================================================================
+
+<FilesMatch "^\.">
+  Order allow,deny
+  Deny from all
+</FilesMatch>
+
+<FilesMatch "\.(git|gitignore|gitattributes|lock|log|md)$">
+  Order allow,deny
+  Deny from all
+</FilesMatch>
+
+# Interdire l'accès aux fichiers de configuration
+<Files "config.php">
+  Order allow,deny
+  Deny from all
+</Files>

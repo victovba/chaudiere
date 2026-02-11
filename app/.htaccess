@@ -1,0 +1,14 @@
+# ============================================================================
+# INTERDIRE L'ACCÈS DIRECT AU CODE SOURCE
+# ============================================================================
+
+Order deny,allow
+Deny from all
+
+# Autoriser uniquement les include PHP internes
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{HTTP_REFERER} !^$
+  RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?%{HTTP_HOST} [NC]
+  RewriteRule .* - [F]
+</IfModule>
