@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Épinal",
+    "slug": "epinal",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88000",
+    "postal_codes": [
+      "88000"
+    ],
+    "insee": "88160",
+    "population": 32318,
+    "lat": 48.174,
+    "lng": 6.45
+  },
+  {
+    "name": "Saint-Dié-des-Vosges",
+    "slug": "saint-die-des-vosges",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88100",
+    "postal_codes": [
+      "88100"
+    ],
+    "insee": "88413",
+    "population": 19500,
+    "lat": 48.285,
+    "lng": 6.95
+  },
+  {
+    "name": "Gérardmer",
+    "slug": "gerardmer",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88400",
+    "postal_codes": [
+      "88400"
+    ],
+    "insee": "88196",
+    "population": 7700,
+    "lat": 48.075,
+    "lng": 6.87
+  },
+  {
+    "name": "Remiremont",
+    "slug": "remiremont",
+    "department": "88",
+    "region": "Grand Est",
+    "postal_code": "88200",
+    "postal_codes": [
+      "88200"
+    ],
+    "insee": "88383",
+    "population": 7600,
+    "lat": 48.02,
+    "lng": 6.59
+  }
+]
