@@ -73,15 +73,44 @@ final class Data {
   public static function alphaIndex(): array {
     $out = [];
     foreach (self::loadCommunes() as $c) {
-      $first = mb_strtoupper(mb_substr($c['name'], 0, 1));
-      $first = iconv('UTF-8', 'ASCII//TRANSLIT//IGNORE', $first) ?: $first;
-      $first = strtoupper($first);
+      $first = self::getFirstLetter($c['name']);
       if (!preg_match('/^[A-Z]$/', $first)) $first = '#';
       $out[$first] ??= [];
       $out[$first][] = $c;
     }
     ksort($out);
     return $out;
+  }
+
+  private static function getFirstLetter(string $str): string {
+    if ($str === '') return '';
+    // Prend le premier caractère
+    $first = substr($str, 0, 1);
+    // Convertit en majuscule
+    $first = strtoupper($first);
+    // Supprime les accents
+    $first = self::removeAccents($first);
+    return $first;
+  }
+
+  private static function removeAccents(string $str): string {
+    $accents = [
+      'À' => 'A', 'Á' => 'A', 'Â' => 'A', 'Ã' => 'A', 'Ä' => 'A', 'Å' => 'A',
+      'à' => 'a', 'á' => 'a', 'â' => 'a', 'ã' => 'a', 'ä' => 'a', 'å' => 'a',
+      'È' => 'E', 'É' => 'E', 'Ê' => 'E', 'Ë' => 'E',
+      'è' => 'e', 'é' => 'e', 'ê' => 'e', 'ë' => 'e',
+      'Ì' => 'I', 'Í' => 'I', 'Î' => 'I', 'Ï' => 'I',
+      'ì' => 'i', 'í' => 'i', 'î' => 'i', 'ï' => 'i',
+      'Ò' => 'O', 'Ó' => 'O', 'Ô' => 'O', 'Õ' => 'O', 'Ö' => 'O', 'Ø' => 'O',
+      'ò' => 'o', 'ó' => 'o', 'ô' => 'o', 'õ' => 'o', 'ö' => 'o', 'ø' => 'o',
+      'Ù' => 'U', 'Ú' => 'U', 'Û' => 'U', 'Ü' => 'U',
+      'ù' => 'u', 'ú' => 'u', 'û' => 'u', 'ü' => 'u',
+      'Ç' => 'C', 'ç' => 'c',
+      'Ñ' => 'N', 'ñ' => 'n',
+      'Œ' => 'OE', 'œ' => 'oe',
+      'Æ' => 'AE', 'æ' => 'ae',
+    ];
+    return strtr($str, $accents);
   }
 
   public static function topByPopulation(int $n = 20): array {

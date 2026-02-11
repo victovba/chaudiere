@@ -2,157 +2,145 @@
 use App\Data;
 
 $heatingServices = $config['heating_services'] ?? [];
+$phone = $config['phone'] ?? '';
 
-// Coordonnées pour la carte des Vosges
-$mapCities = [
-  ['name' => 'Épinal', 'lat' => 48.1735, 'lng' => 6.4492],
-  ['name' => 'Saint-Dié', 'lat' => 48.2855, 'lng' => 6.9479],
-  ['name' => 'Rambervillers', 'lat' => 48.3456, 'lng' => 6.6346],
-  ['name' => 'Thaon-les-Vosges', 'lat' => 48.2514, 'lng' => 6.4197],
-  ['name' => 'Bruyères', 'lat' => 48.2083, 'lng' => 6.7194],
-  ['name' => 'Golbey', 'lat' => 48.1944, 'lng' => 6.4306],
-];
+// Charger toutes les communes
+$allCommunes = Data::loadCommunes();
+$totalCommunes = count($allCommunes);
 
+// Top 12 par population pour la section featured
 $topCities = Data::topByPopulation(12);
+
+// Index alphabétique
+$alphaIndex = Data::alphaIndex();
 ?>
 
 <nav class="breadcrumbs">
-  <a href="/">Accueil</a><span>›</span><span>Zones d'intervention</span>
+  <a href="/">Accueil</a>
+  <span>›</span>
+  <span>Toutes les communes</span>
 </nav>
 
-<section class="section section--communes">
+<section class="section">
   <div class="container">
     <div class="section-header section-header--center">
-      <span class="section-tag">📍 Zones</span>
-      <h1 class="section-title">Intervention dans tout le <span class="gradient-text">département des Vosges</span></h1>
+      <span class="section-tag">📍 Intervention</span>
+      <h1 class="section-title">
+        <?= $totalCommunes ?> communes des <span class="gradient-text">Vosges (88)</span>
+      </h1>
       <p class="section-desc">
-        Nous intervenons sur l'ensemble des 515 communes des Vosges (88). 
-        Trouvez votre ville pour accéder à une page dédiée avec nos services.
+        Nous intervenons sur l'ensemble du département. Trouvez votre commune ci-dessous 
+        pour accéder à une page dédiée avec nos services de chauffage.
       </p>
     </div>
 
-    <!-- Map -->
-    <div class="communes-map">
-      <div id="vosges-map-full" class="interactive-map"></div>
-      <script>
-        document.addEventListener('DOMContentLoaded', function() {
-          var map = L.map('vosges-map-full').setView([48.25, 6.5], 9);
-          L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '© OpenStreetMap'
-          }).addTo(map);
-          
-          var cities = <?= json_encode($mapCities) ?>;
-          cities.forEach(function(city) {
-            L.marker([city.lat, city.lng])
-              .addTo(map)
-              .bindPopup('<b>' + city.name + '</b><br><a href="/ville/' + city.name.toLowerCase().replace(/ /g, '-') + '">Voir la page</a>');
-          });
-        });
-      </script>
-    </div>
-
     <!-- Navigation A-Z -->
-    <div class="section-header section-header--center">
-      <span class="section-tag">🗂️</span>
-      <h2 class="section-title">Parcourir par <span class="gradient-text">lettre</span></h2>
-    </div>
-
-    <div class="az-nav">
-      <?php foreach (array_keys($index ?? []) as $letter): ?>
-        <?php if ($letter === '#') continue; ?>
-        <a class="az-nav__link" href="/communes/<?= strtolower(e($letter)) ?>"><?= e($letter) ?></a>
+    <div class="az-nav" style="margin-bottom: 3rem;">
+      <?php foreach (range('A', 'Z') as $letter): ?>
+        <?php $count = isset($alphaIndex[$letter]) ? count($alphaIndex[$letter]) : 0; ?>
+        <?php if ($count > 0): ?>
+          <a href="#letter-<?= strtolower($letter) ?>" class="az-nav__link">
+            <?= $letter ?>
+            <small style="font-size: 0.7rem; display: block;">(<?= $count ?>)</small>
+          </a>
+        <?php else: ?>
+          <span class="az-nav__link" style="opacity: 0.3; cursor: not-allowed;"><?= $letter ?></span>
+        <?php endif; ?>
       <?php endforeach; ?>
     </div>
 
-    <!-- Top Cities -->
+    <!-- Top Villes -->
     <div class="section-header">
       <span class="section-tag">🏆</span>
-      <h2 class="section-title">Villes <span class="gradient-text">principales</span></h2>
+      <h2 class="section-title">Principales villes</h2>
     </div>
 
-    <div class="communes-grid">
-      <?php foreach ($topCities as $c): ?>
-        <a class="commune-card" href="/ville/<?= e($c['slug']) ?>">
-          <span class="commune-card__icon">🏘️</span>
-          <div class="commune-card__info">
-            <div class="commune-card__name"><?= e($c['name']) ?></div>
-            <div class="commune-card__meta"><?= e($c['cp'] ?? '88') ?><?= !empty($c['population']) ? ' • ' . number_format((int)$c['population'], 0, ',', ' ') . ' hab.' : '' ?></div>
+    <div class="cities-grid" style="margin-bottom: 4rem;">
+      <?php foreach ($topCities as $city): ?>
+        <a href="/ville/<?= e($city['slug']) ?>" class="city-card">
+          <div class="city-card__visual">
+            <span class="city-card__icon">🏘️</span>
+            <span class="city-card__cp"><?= e($city['cp']) ?></span>
+          </div>
+          <div class="city-card__content">
+            <h3 class="city-card__name"><?= e($city['name']) ?></h3>
+            <p class="city-card__desc">
+              <?= number_format($city['population'], 0, ',', ' ') ?> habitants
+            </p>
           </div>
         </a>
       <?php endforeach; ?>
     </div>
 
-    <!-- Services Heating Links -->
-    <div class="section-header" style="margin-top: 3rem;">
-      <span class="section-tag">🔥</span>
-      <h2 class="section-title">Nos solutions <span class="gradient-text">chauffage</span></h2>
-    </div>
-
-    <div class="services-grid" style="margin-bottom: 3rem;">
-      <?php foreach ($heatingServices as $service): ?>
-        <a href="/chauffage/<?= e($service['slug']) ?>" class="service-card" style="--service-color: <?= $service['color'] ?>">
-          <div class="service-card__icon" style="background: <?= $service['color'] ?>20; color: <?= $service['color'] ?>">
-            <?= $service['icon'] ?>
-          </div>
-          <h3 class="service-card__title"><?= e($service['title']) ?></h3>
-          <p class="service-card__desc"><?= e($service['description']) ?></p>
-        </a>
-      <?php endforeach; ?>
-    </div>
-
-    <!-- Index Letters -->
+    <!-- Toutes les communes par lettre -->
     <div class="section-header">
       <span class="section-tag">📋</span>
-      <h2 class="section-title">Index <span class="gradient-text">complet A-Z</span></h2>
+      <h2 class="section-title">Index complet A-Z</h2>
     </div>
 
-    <div class="grid grid--4" style="gap: 1rem;">
-      <?php foreach ($index as $letter => $list): ?>
-        <?php if ($letter === '#') continue; ?>
-        <a class="panel panel--clickable" href="/communes/<?= strtolower(e($letter)) ?>">
-          <div style="display: flex; align-items: center; gap: 1rem;">
-            <span style="font-size: 1.5rem; font-weight: 800; color: var(--color-primary);"><?= e($letter) ?></span>
-            <div>
-              <strong><?= e($letter) ?></strong>
-              <p class="muted" style="font-size: 0.875rem; margin: 0;"><?= count($list) ?> commune<?= count($list) > 1 ? 's' : '' ?></p>
-            </div>
-          </div>
-        </a>
-      <?php endforeach; ?>
+    <?php foreach ($alphaIndex as $letter => $communes): ?>
+      <?php if ($letter === '#') continue; ?>
+      <div id="letter-<?= strtolower($letter) ?>" style="margin-bottom: 3rem;">
+        <h3 style="font-size: 1.5rem; font-weight: 700; margin-bottom: 1rem; color: var(--primary-green); 
+                   border-bottom: 2px solid var(--accent-soft); padding-bottom: 0.5rem;">
+          <?= $letter ?> 
+          <small style="font-size: 0.875rem; font-weight: 500; color: var(--text-secondary);">
+            (<?= count($communes) ?> commune<?= count($communes) > 1 ? 's' : '' ?>)
+          </small>
+        </h3>
+        
+        <div class="communes-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 0.75rem;">
+          <?php foreach ($communes as $commune): ?>
+            <a href="/ville/<?= e($commune['slug']) ?>" class="commune-card" 
+               style="display: flex; align-items: center; gap: 0.75rem; padding: 0.875rem; 
+                      background: var(--bg-white); border: 1px solid var(--border-color); 
+                      border-radius: var(--radius-sm); text-decoration: none; transition: all 0.2s;">
+              <span style="font-size: 1.25rem;">🏘️</span>
+              <div style="flex: 1; min-width: 0;">
+                <div style="font-weight: 500; color: var(--text-primary); white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+                  <?= e($commune['name']) ?>
+                </div>
+                <div style="font-size: 0.75rem; color: var(--text-secondary);">
+                  <?= e($commune['cp']) ?>
+                </div>
+              </div>
+            </a>
+          <?php endforeach; ?>
+        </div>
+      </div>
+    <?php endforeach; ?>
+  </div>
+</section>
+
+<!-- CTA -->
+<section class="section" style="background: var(--bg-alt);">
+  <div class="container">
+    <div class="final-cta">
+      <div class="final-cta__content">
+        <h2>Vous ne trouvez pas votre commune ?</h2>
+        <p class="lead">Nous intervenons sur tout le département des Vosges (88). Contactez-nous !</p>
+      </div>
+      <div class="final-cta__actions">
+        <a href="/contact" class="btn btn--primary btn--large">📋 Nous contacter</a>
+      </div>
     </div>
   </div>
 </section>
 
-<?php $phone = $config['phone'] ?? ''; ?>
-
-<!-- CTA Centré -->
-<section class="section">
-  <div class="final-cta">
-    <div class="final-cta__content">
-      <h2>Vous ne trouvez pas votre commune ?</h2>
-      <p class="lead">Contactez-nous ! Nous intervenons sur tout le département des Vosges.</p>
-    </div>
-    <div class="final-cta__actions">
-      <a href="/contact" class="btn btn--primary btn--large">📋 Nous contacter</a>
-    </div>
-  </div>
-</section>
-
-<!-- Section Téléphone Centrée -->
 <section class="phone-cta-section">
   <div class="container">
     <div class="phone-cta-box">
       <span class="phone-cta-box__icon">📞</span>
-      <h2 class="phone-cta-box__title">Préférez nous appeler ?</h2>
-      <p class="phone-cta-box__subtitle">Pour les urgences ou demandes rapides</p>
+      <h2 class="phone-cta-box__title">Une question ?</h2>
+      <p class="phone-cta-box__subtitle">Nos experts vous répondent</p>
       <?php if ($phone): ?>
       <a href="tel:<?= e(preg_replace('/\s+/', '', $phone)) ?>" class="phone-cta-box__number">
         <span>📞</span> <?= e($phone) ?>
       </a>
       <?php endif; ?>
       <p class="phone-cta-box__hours">
-        <strong>Horaires :</strong> Lun-Ven 7h30-19h00 · Sam 8h-17h<br>
-        <span style="color: var(--color-primary-light);">Urgence : 7j/7</span>
+        <strong>Horaires :</strong> Lun-Ven 7h30-19h · Sam 8h-17h<br>
+        <span style="color: var(--primary-green);">Urgence : 7j/7</span>
       </p>
     </div>
   </div>

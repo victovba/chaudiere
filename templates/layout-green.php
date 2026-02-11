@@ -99,7 +99,6 @@ $navItems = [
           </div>
         </div>
         
-        <a href="/communes" class="nav-modern__link">Zones d'intervention</a>
         <a href="/contact" class="nav-modern__cta">Devis Gratuit</a>
       </nav>
 
@@ -126,7 +125,6 @@ $navItems = [
         </div>
       </div>
       <div class="mobile-menu__section">
-        <a href="/communes" class="mobile-menu__link">🗺️ Zones d'intervention</a>
         <a href="/contact" class="mobile-menu__cta">📋 Devis Gratuit</a>
       </div>
     </div>
