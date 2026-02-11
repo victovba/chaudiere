@@ -1,5 +1,6 @@
 <?php
 use App\Data;
+use App\DataEPCI;
 
 $name = $commune['name'] ?? '';
 $cp = $commune['cp'] ?? '';
@@ -10,6 +11,10 @@ $mainCities = $config['main_cities'] ?? [];
 
 // Données spécifiques ville
 $cityData = $mainCities[$slug] ?? [];
+
+// Données EPCI (Silo)
+$silo = DataEPCI::findSiloByCommuneSlug($slug);
+$nearbyCommunes = DataEPCI::getNearbyCommunes($slug, 4);
 
 $nearby = Data::nearby($commune, 8);
 $top = Data::topByPopulation(6);
@@ -190,6 +195,52 @@ $faqs = [
     </div>
   </div>
 </section>
+
+<?php if ($silo): ?>
+<!-- Silo Parent Link -->
+<section class="section section--alt">
+  <div class="container">
+    <div style="background: var(--accent-soft); border-radius: var(--radius); padding: 2rem; text-align: center;">
+      <h3 style="font-size: 1.25rem; font-weight: 600; margin-bottom: 1rem; color: var(--text-primary);">
+        📍 <?= e($name) ?> fait partie de <?= e($silo['silo_name']) ?>
+      </h3>
+      <p style="color: var(--text-secondary); margin-bottom: 1.5rem; max-width: 600px; margin-left: auto; margin-right: auto;">
+        Nous intervenons sur <?= count($silo['communes'] ?? []) ?> communes de ce territoire avec les mêmes services et garanties.
+      </p>
+      <a href="/zone/<?= e($silo['slug']) ?>" class="btn btn--secondary">
+        Voir toutes les communes de <?= e($silo['main_city']) ?>
+      </a>
+    </div>
+  </div>
+</section>
+<?php endif; ?>
+
+<?php if (!empty($nearbyCommunes)): ?>
+<!-- Communes Voisines -->
+<section class="section">
+  <div class="container">
+    <div class="section-header section-header--center">
+      <span class="section-tag">📍 Près de chez vous</span>
+      <h2 class="section-title">Chauffage aux alentours de <span class="gradient-text"><?= e($name) ?></span></h2>
+    </div>
+    
+    <div class="cities-grid">
+      <?php foreach ($nearbyCommunes as $nearbyCommune): ?>
+        <a href="/ville/<?= e($nearbyCommune['slug']) ?>" class="city-card">
+          <div class="city-card__visual">
+            <span class="city-card__icon">🏘️</span>
+            <span class="city-card__cp"><?= e($nearbyCommune['postal_code']) ?></span>
+          </div>
+          <div class="city-card__content">
+            <h3 class="city-card__name"><?= e($nearbyCommune['name']) ?></h3>
+            <p class="city-card__desc">Chauffage <?= e($nearbyCommune['name']) ?></p>
+          </div>
+        </a>
+      <?php endforeach; ?>
+    </div>
+  </div>
+</section>
+<?php endif; ?>
 
 <section class="section">
   <div class="final-cta">

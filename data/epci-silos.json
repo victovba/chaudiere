@@ -1,0 +1,182 @@
+{
+  "department": "Vosges",
+  "code": "88",
+  "silos": [
+    {
+      "silo_name": "Communauté d'Agglomération d'Épinal",
+      "slug": "agglomeration-epinal",
+      "main_city": "Épinal",
+      "description": "L'agglomération spinalienne regroupe les communes autour d'Épinal, capitale des Vosges. Zone économique dynamique avec un fort potentiel de rénovation énergétique.",
+      "population": 115000,
+      "communes": [
+        { "name": "Épinal", "slug": "epinal", "postal_code": "88000", "population": 32105 },
+        { "name": "Golbey", "slug": "golbey", "postal_code": "88190", "population": 8982 },
+        { "name": "Thaon-les-Vosges", "slug": "thaon-les-vosges", "postal_code": "88150", "population": 4271 },
+        { "name": "Charmes", "slug": "charmes", "postal_code": "88130", "population": 4548 },
+        { "name": "Xertigny", "slug": "xertigny", "postal_code": "88220", "population": 2715 },
+        { "name": "Arches", "slug": "arches", "postal_code": "88380", "population": 1658 },
+        { "name": "La Vôge-les-Bains", "slug": "la-voge-les-bains", "postal_code": "88240", "population": 1532 },
+        { "name": "Uriménil", "slug": "urimenil", "postal_code": "88220", "population": 1234 },
+        { "name": "Deyvillers", "slug": "deyvillers", "postal_code": "88000", "population": 1456 },
+        { "name": "Chantraine", "slug": "chantraine", "postal_code": "88000", "population": 3210 },
+        { "name": "Jeuxey", "slug": "jeuxey", "postal_code": "88000", "population": 2890 }
+      ]
+    },
+    {
+      "silo_name": "Communauté d'Agglomération de Saint-Dié-des-Vosges",
+      "slug": "agglomeration-saint-die",
+      "main_city": "Saint-Dié-des-Vosges",
+      "description": "L'agglomération de Saint-Dié, capitale géographique, dessert une vallée encaissée où les besoins en chauffage performant sont essentiels.",
+      "population": 62000,
+      "communes": [
+        { "name": "Saint-Dié-des-Vosges", "slug": "saint-die-des-vosges", "postal_code": "88100", "population": 19638 },
+        { "name": "Raon-l'Étape", "slug": "raon-l-etape", "postal_code": "88110", "population": 6241 },
+        { "name": "Fraize", "slug": "fraize", "postal_code": "88230", "population": 2847 },
+        { "name": "Étival-Clairefontaine", "slug": "etival-clairefontaine", "postal_code": "88480", "population": 2543 },
+        { "name": "Senones", "slug": "senones", "postal_code": "88210", "population": 2567 },
+        { "name": "Anould", "slug": "anould", "postal_code": "88650", "population": 3278 },
+        { "name": "Saint-Michel-sur-Meurthe", "slug": "saint-michel-sur-meurthe", "postal_code": "88470", "population": 1890 },
+        { "name": "Nompatelize", "slug": "nompatelize", "postal_code": "88270", "population": 512 },
+        { "name": "Moyenmoutier", "slug": "moyenmoutier", "postal_code": "88420", "population": 3124 },
+        { "name": "Ban-de-Laveline", "slug": "ban-de-laveline", "postal_code": "88520", "population": 1234 },
+        { "name": "Saint-Léonard", "slug": "saint-leonard", "postal_code": "88650", "population": 1654 }
+      ]
+    },
+    {
+      "silo_name": "Communauté de Communes des Hautes Vosges",
+      "slug": "hautes-vosges",
+      "main_city": "Gérardmer",
+      "description": "Le massif vosgien avec ses stations de ski et ses lacs. Zone touristique avec des hivers rigoureux nécessitant des solutions chauffage adaptées à l'altitude.",
+      "population": 28000,
+      "communes": [
+        { "name": "Gérardmer", "slug": "gerardmer", "postal_code": "88400", "population": 7986 },
+        { "name": "La Bresse", "slug": "la-bresse", "postal_code": "88250", "population": 4116 },
+        { "name": "Cornimont", "slug": "cornimont", "postal_code": "88310", "population": 3602 },
+        { "name": "Vagney", "slug": "vagney", "postal_code": "88120", "population": 3876 },
+        { "name": "Xonrupt-Longemer", "slug": "xonrupt-longemer", "postal_code": "88400", "population": 1543 },
+        { "name": "Rochesson", "slug": "rochesson", "postal_code": "88120", "population": 678 },
+        { "name": "Le Syndicat", "slug": "le-syndicat", "postal_code": "88120", "population": 1876 },
+        { "name": "Sapois", "slug": "sapois", "postal_code": "88120", "population": 623 }
+      ]
+    },
+    {
+      "silo_name": "Communauté de Communes de la Porte des Vosges Méridionales",
+      "slug": "porte-vosges-meridionales",
+      "main_city": "Remiremont",
+      "description": "La porte d'entrée du sud des Vosges avec Remiremont, ville thermale historique. Zone de transition entre plaines et montagnes.",
+      "population": 35000,
+      "communes": [
+        { "name": "Remiremont", "slug": "remiremont", "postal_code": "88200", "population": 7716 },
+        { "name": "Saint-Nabord", "slug": "saint-nabord", "postal_code": "88200", "population": 4103 },
+        { "name": "Le Val-d'Ajol", "slug": "le-val-d-ajol", "postal_code": "88340", "population": 3987 },
+        { "name": "Plombières-les-Bains", "slug": "plombieres-les-bains", "postal_code": "88370", "population": 1708 },
+        { "name": "Éloyes", "slug": "eloyes", "postal_code": "88510", "population": 3123 },
+        { "name": "Saint-Étienne-lès-Remiremont", "slug": "saint-etienne-les-remiremont", "postal_code": "88200", "population": 3892 },
+        { "name": "Vecoux", "slug": "vecoux", "postal_code": "88200", "population": 987 },
+        { "name": "Dommartin-lès-Remiremont", "slug": "dommartin-les-remiremont", "postal_code": "88200", "population": 1654 }
+      ]
+    },
+    {
+      "silo_name": "Communauté de Communes Terre d'Eau",
+      "slug": "terre-d-eau",
+      "main_city": "Vittel",
+      "description": "Le pays des sources thermales et minérales. Zone rurale avec de nombreuses maisons individuelles nécessitant des solutions chauffage économiques.",
+      "population": 22000,
+      "communes": [
+        { "name": "Vittel", "slug": "vittel", "postal_code": "88800", "population": 5056 },
+        { "name": "Contrexéville", "slug": "contrexeville", "postal_code": "88140", "population": 2727 },
+        { "name": "Bulgnéville", "slug": "bulgneville", "postal_code": "88140", "population": 1543 },
+        { "name": "Mandres-sur-Vair", "slug": "mandres-sur-vair", "postal_code": "88800", "population": 432 },
+        { "name": "Auzainvilliers", "slug": "auzainvilliers", "postal_code": "88140", "population": 287 },
+        { "name": "Dombrot-le-Sec", "slug": "dombrot-le-sec", "postal_code": "88140", "population": 398 },
+        { "name": "Norroy", "slug": "norroy", "postal_code": "88800", "population": 234 },
+        { "name": "Sauville", "slug": "sauville", "postal_code": "88140", "population": 187 }
+      ]
+    },
+    {
+      "silo_name": "Communauté de Communes de l'Ouest Vosgien",
+      "slug": "ouest-vosgien",
+      "main_city": "Neufchâteau",
+      "description": "L'ouest vosgien avec Neufchâteau, sous-préfecture. Zone rurale avec des villages dispersés où le fioul est encore présent.",
+      "population": 18000,
+      "communes": [
+        { "name": "Neufchâteau", "slug": "neufchateau", "postal_code": "88300", "population": 6637 },
+        { "name": "Châtenois", "slug": "chatenois", "postal_code": "88170", "population": 1687 },
+        { "name": "Liffol-le-Grand", "slug": "liffol-le-grand", "postal_code": "88350", "population": 2134 },
+        { "name": "Coussey", "slug": "coussey", "postal_code": "88630", "population": 765 },
+        { "name": "Certilleux", "slug": "certilleux", "postal_code": "88300", "population": 432 },
+        { "name": "Fréville", "slug": "freville", "postal_code": "88350", "population": 123 },
+        { "name": "Robécourt", "slug": "robecourt", "postal_code": "88320", "population": 234 },
+        { "name": "Sartes", "slug": "sartes", "postal_code": "88300", "population": 98 }
+      ]
+    },
+    {
+      "silo_name": "Communauté de Communes Mirecourt Dompaire",
+      "slug": "mirecourt-dompaire",
+      "main_city": "Mirecourt",
+      "description": "Le pays de la lutherie avec Mirecourt. Zone de collines avec des besoins variés en chauffage selon l'altitude.",
+      "population": 16000,
+      "communes": [
+        { "name": "Mirecourt", "slug": "mirecourt", "postal_code": "88500", "population": 4856 },
+        { "name": "Dompaire", "slug": "dompaire", "postal_code": "88270", "population": 1077 },
+        { "name": "Mattaincourt", "slug": "mattaincourt", "postal_code": "88500", "population": 876 },
+        { "name": "Valleroy-aux-Saules", "slug": "valleroy-aux-saules", "postal_code": "88270", "population": 234 },
+        { "name": "Bazoilles-sur-Meuse", "slug": "bazoilles-sur-meuse", "postal_code": "88300", "population": 567 },
+        { "name": "Boulaincourt", "slug": "boulaincourt", "postal_code": "88500", "population": 123 },
+        { "name": "Châtenois", "slug": "chatenois-mirecourt", "postal_code": "88170", "population": 432 },
+        { "name": "Puzieux", "slug": "puzieux", "postal_code": "88500", "population": 156 }
+      ]
+    },
+    {
+      "silo_name": "Communauté de Communes des Ballons des Hautes-Vosges",
+      "slug": "ballons-hautes-vosges",
+      "main_city": "Le Thillot",
+      "description": "La Haute Vallée de la Moselle avec les Ballons d'Alsace. Zone la plus montagneuse du département avec des hivers très froids.",
+      "population": 15000,
+      "communes": [
+        { "name": "Le Thillot", "slug": "le-thillot", "postal_code": "88160", "population": 3326 },
+        { "name": "Rupt-sur-Moselle", "slug": "rupt-sur-moselle", "postal_code": "88360", "population": 3498 },
+        { "name": "Bussang", "slug": "bussang", "postal_code": "88540", "population": 1409 },
+        { "name": "Saint-Maurice-sur-Moselle", "slug": "saint-maurice-sur-moselle", "postal_code": "88560", "population": 1387 },
+        { "name": "Fresse-sur-Moselle", "slug": "fresse-sur-moselle", "postal_code": "88160", "population": 1876 },
+        { "name": "Ramonchamp", "slug": "ramonchamp", "postal_code": "88160", "population": 1987 },
+        { "name": "Ferdrupt", "slug": "ferdrupt", "postal_code": "88390", "population": 765 },
+        { "name": "Ventron", "slug": "ventron", "postal_code": "88310", "population": 876 }
+      ]
+    },
+    {
+      "silo_name": "Communauté de Communes Bruyères - Vallons des Vosges",
+      "slug": "bruyeres-vallons",
+      "main_city": "Bruyères",
+      "description": "Le pays de Bruyères avec ses vallons encaissés. Zone rurale avec de nombreuses fermes et maisons anciennes à rénover.",
+      "population": 14000,
+      "communes": [
+        { "name": "Bruyères", "slug": "bruyeres", "postal_code": "88600", "population": 3063 },
+        { "name": "Docelles", "slug": "docelles", "postal_code": "88460", "population": 862 },
+        { "name": "Corcieux", "slug": "corcieux", "postal_code": "88430", "population": 1543 },
+        { "name": "Aumontzey", "slug": "aumontzey", "postal_code": "88640", "population": 476 },
+        { "name": "Fays", "slug": "fays", "postal_code": "88600", "population": 234 },
+        { "name": "Biffontaine", "slug": "biffontaine", "postal_code": "88430", "population": 387 },
+        { "name": "Laveline-devant-Bruyères", "slug": "laveline-devant-bruyeres", "postal_code": "88600", "population": 567 },
+        { "name": "Champ-le-Duc", "slug": "champ-le-duc", "postal_code": "88600", "population": 432 }
+      ]
+    },
+    {
+      "silo_name": "Autres communes du Vosges",
+      "slug": "autres-communes",
+      "main_city": "Rambervillers",
+      "description": "Les communes isolées et zones rurales dispersées dans tout le département.",
+      "population": 45000,
+      "communes": [
+        { "name": "Rambervillers", "slug": "rambervillers", "postal_code": "88700", "population": 4965 },
+        { "name": "Bains-les-Bains", "slug": "bains-les-bains", "postal_code": "88240", "population": 1134 },
+        { "name": "Monthureux-sur-Saône", "slug": "monthureux-sur-saone", "postal_code": "88410", "population": 987 },
+        { "name": "Lamarche", "slug": "lamarche", "postal_code": "88320", "population": 876 },
+        { "name": "Darney", "slug": "darney", "postal_code": "88260", "population": 1098 },
+        { "name": "Jussey", "slug": "jussey", "postal_code": "88500", "population": 1654 },
+        { "name": "Châtel-sur-Moselle", "slug": "chatel-sur-moselle", "postal_code": "88330", "population": 1765 },
+        { "name": "Igney", "slug": "igney", "postal_code": "88150", "population": 987 }
+      ]
+    }
+  ]
+}

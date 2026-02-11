@@ -71,6 +71,18 @@ final class Router
             return;
         }
 
+        // Page zones d'intervention (hub silos)
+        if ($uri === '/zones') {
+            $this->zonesHub();
+            return;
+        }
+
+        // Page silo individuel (EPCI)
+        if (preg_match('#^/zone/([a-z0-9\-]+)$#', $uri, $m)) {
+            $this->siloPage($m[1]);
+            return;
+        }
+
         // Page ville
         if (preg_match('#^/ville/([a-z0-9\-]+)$#', $uri, $m)) {
             $this->cityPage($m[1]);
@@ -131,6 +143,33 @@ final class Router
 
         $seo = Seo::forCommunesLetter($this->config, $letter);
         $this->view()->render('communes_letter', compact('letter', 'list', 'seo'));
+    }
+
+    private function zonesHub(): void
+    {
+        $seo = [
+            'title' => 'Zones d\'intervention - Chauffage Vosges (88) | Toutes les communes',
+            'description' => 'Nous intervenons dans tout le département des Vosges (88) à travers 10 territoires. Découvrez les zones où nous installons chauffage, chaudières et pompes à chaleur.',
+            'url' => rtrim($this->config['base_url'] ?? '', '/') . '/zones',
+        ];
+        $this->view()->render('zones', compact('seo'));
+    }
+
+    private function siloPage(string $slug): void
+    {
+        $silo = DataEPCI::findSiloBySlug($slug);
+        if (!$silo) {
+            $this->notFound();
+            return;
+        }
+
+        $seo = [
+            'title' => 'Chauffage ' . $silo['main_city'] . ' - ' . $silo['silo_name'] . ' | Devis Gratuit',
+            'description' => 'Installation et dépannage chauffage à ' . $silo['main_city'] . ' et ' . count($silo['communes'] ?? []) . ' communes environnantes. Devis gratuit, aides MaPrimeRénov\'.',
+            'url' => rtrim($this->config['base_url'] ?? '', '/') . '/zone/' . $slug,
+        ];
+
+        $this->view()->render('silo', compact('silo', 'seo'));
     }
 
     private function cityPage(string $slug): void
